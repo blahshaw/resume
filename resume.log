@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2012.2.23)  15 SEP 2013 18:29
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.2.23)  15 SEP 2013 18:43
 entering extended mode
  %&-line parsing enabled.
 **resume.tex
@@ -36,12 +36,14 @@ Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 (/usr/share/texmf/tex/latex/config/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package xcolor Info: Driver file: dvips.def on input line 225.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(/usr/share/texmf/tex/latex/graphics/dvips.def
-File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+(/usr/share/texmf/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count87
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
 Package xcolor Info: Model `RGB' extended on input line 1353.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
@@ -90,8 +92,8 @@ Package tocloft Note: The document has section divisions.
 \cftbeforefigskip=\skip67
 \cftfigindent=\skip68
 \cftfignumwidth=\skip69
-\c@lofdepth=\count87
-\c@lotdepth=\count88
+\c@lofdepth=\count88
+\c@lotdepth=\count89
 \cftbeforelottitleskip=\skip70
 \cftafterlottitleskip=\skip71
 \cftbeforetabskip=\skip72
@@ -131,14 +133,23 @@ Overfull \vbox (18.06749pt too high) has occurred while \output is active []
 
 [1
 
-] (./resume.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1247 strings out of 256217
- 15714 string characters out of 1917095
- 80615 words of memory out of 1500000
- 4582 multiletter control sequences out of 10000+200000
+ 1312 strings out of 256216
+ 16430 string characters out of 1917072
+ 83560 words of memory out of 1500000
+ 4645 multiletter control sequences out of 10000+200000
  7928 words of font info for 28 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 26i,10n,35p,310b,197s stack positions out of 5000i,500n,6000p,200000b,15000s
+ 26i,10n,35p,308b,197s stack positions out of 5000i,500n,6000p,200000b,15000s
+</usr/shar
+e/texmf/fonts/type1/bluesky/cm/cmbx10.pfb></usr/share/texmf/fonts/type1/bluesky
+/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/t
+exmf/fonts/type1/bluesky/cm/cmssbx10.pfb></usr/share/texmf/fonts/type1/bluesky/
+cm/cmsy10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmti10.pfb>
+Output written on resume.pdf (1 page, 46965 bytes).
+PDF statistics:
+ 30 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on resume.dvi (1 page, 4932 bytes).
