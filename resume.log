@@ -1,20 +1,15 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.2.23)  29 JAN 2014 14:03
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.6.9)  9 JUN 2014 23:32
 entering extended mode
  %&-line parsing enabled.
 **resume.tex
 (./resume.tex
-LaTeX2e <2005/12/01>
-Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
-erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
- french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
-us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
-tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
-turkish, ukenglish, ukrainian, loaded.
-(/usr/share/texmf/tex/latex/base/article.cls
-Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
-(/usr/share/texmf/tex/latex/base/size11.clo
-File: size11.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -30,126 +25,2687 @@ File: size11.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
 )
 \outerbordwidth=\skip43
 
-(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(/usr/share/texmf/tex/latex/config/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
+! LaTeX Error: File `xcolor.sty' not found.
 
-(/usr/share/texmf/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
-\Gread@gobject=\count87
-)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
-Package xcolor Info: Model `RGB' extended on input line 1353.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
 
-(/usr/share/texmf/tex/latex/xcolor/svgnam.def
-File: svgnam.def 2007/01/21 v2.11 Predefined colors according to SVG 1.1 (UK)
-))
-(/usr/share/texmf/tex/latex/ltxmisc/framed.sty
-Package: framed 2003/07/21 v 0.8a: framed or shaded text with page breaks
-\FrameRule=\dimen103
-\FrameSep=\dimen104
-)
-(/usr/share/texmf/tex/latex/tocloft/tocloft.sty
-Package: tocloft 2003/09/26 v2.3c parameterised ToC, etc., typesetting
+Enter file name: resume.pdf
+(./resume.pdf
 
+! LaTeX Error: Missing \begin{document}.
 
-Package tocloft Note: The document has section divisions.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 3
+      0 obj <<
+? 
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no Û in font cmr10!
+! Text line contains an invalid character.
+l.8 xÚ½YÉrÛ8^^P
+               ½û+X5^^Wª^^R!ÄJ2§‰—8N9^^S'’k^^N™^^\`^^R–˜pÑ€¤^^]×üü4^^HP–dÙ–%...
 
-\cftparskip=\skip44
-\cftbeforetoctitleskip=\skip45
-\cftaftertoctitleskip=\skip46
-\cftbeforepartskip=\skip47
-\cftpartnumwidth=\skip48
-\cftpartindent=\skip49
-\cftbeforesecskip=\skip50
-\cftsecindent=\skip51
-\cftsecnumwidth=\skip52
-\cftbeforesubsecskip=\skip53
-\cftsubsecindent=\skip54
-\cftsubsecnumwidth=\skip55
-\cftbeforesubsubsecskip=\skip56
-\cftsubsubsecindent=\skip57
-\cftsubsubsecnumwidth=\skip58
-\cftbeforeparaskip=\skip59
-\cftparaindent=\skip60
-\cftparanumwidth=\skip61
-\cftbeforesubparaskip=\skip62
-\cftsubparaindent=\skip63
-\cftsubparanumwidth=\skip64
-\cftbeforeloftitleskip=\skip65
-\cftafterloftitleskip=\skip66
-\cftbeforefigskip=\skip67
-\cftfigindent=\skip68
-\cftfignumwidth=\skip69
-\c@lofdepth=\count88
-\c@lotdepth=\count89
-\cftbeforelottitleskip=\skip70
-\cftafterlottitleskip=\skip71
-\cftbeforetabskip=\skip72
-\cfttabindent=\skip73
-\cfttabnumwidth=\skip74
-) (./resume.aux)
-\openout1 = `resume.aux'.
+? 
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no û in font cmr10!
+! Text line contains an invalid character.
+l.8 xÚ½YÉrÛ8^^P½û+X5^^W
+                       ª^^R!ÄJ2§‰—8N9^^S'’k^^N™^^\`^^R–˜pÑ€¤^^]×üü4^^HP–dÙ–%...
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
+? 
+Missing character: There is no ª in font cmr10!
+! Text line contains an invalid character.
+l.8 xÚ½YÉrÛ8^^P½û+X5^^Wª^^R
+                           !ÄJ2§‰—8N9^^S'’k^^N™^^\`^^R–˜pÑ€¤^^]×üü4^^HP–dÙ–%...
+
+? 
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no — in font cmr10!
+! Text line contains an invalid character.
+l.8 xÚ½YÉrÛ8^^P½û+X5^^Wª^^R!ÄJ2§‰—8N9^^S
+                                        '’k^^N™^^\`^^R–˜pÑ€¤^^]×üü4^^HP–dÙ–%...
+
+? 
+Missing character: There is no ’ in font cmr10!
+! Text line contains an invalid character.
+l.8 xÚ½YÉrÛ8^^P½û+X5^^Wª^^R!ÄJ2§‰—8N9^^S'’k^^N
+                                              ™^^\`^^R–˜pÑ€¤^^]×üü4^^HP–dÙ–%...
+
+? 
+Missing character: There is no ™ in font cmr10!
+! Text line contains an invalid character.
+l.8 xÚ½YÉrÛ8^^P½û+X5^^Wª^^R!ÄJ2§‰—8N9^^S'’k^^N™^^\
+                                                  `^^R–˜pÑ€¤^^]×üü4^^HP–dÙ–%...
+
+? 
+! Text line contains an invalid character.
+l.8 ...8^^P½û+X5^^Wª^^R!ÄJ2§‰—8N9^^S'’k^^N™^^\`^^R
+                                                  –˜pÑ€¤^^]×üü4^^HP–dÙ–%;¥^^...
+
+? 
+Missing character: There is no – in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+! Text line contains an invalid character.
+l.8 ...^^Wª^^R!ÄJ2§‰—8N9^^S'’k^^N™^^\`^^R–˜pÑ€¤^^]
+                                                  ×üü4^^HP–dÙ–%;¥^^C±u^^Ch¼~...
+
+? 
+Missing character: There is no × in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ü in font cmr10!
+! Text line contains an invalid character.
+l.8 ...!ÄJ2§‰—8N9^^S'’k^^N™^^\`^^R–˜pÑ€¤^^]×üü4^^H
+                                                  P–dÙ–%;¥^^C±u^^Ch¼~è†^^Boâ...
+
+? 
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+! Text line contains an invalid character.
+l.9 i8d”ğuƒa^^U
+                Z•?d‘•Ó^^\–^^FU×¨›?'…Ìr”TÅ¢,·¢“¬™šÑí…^^Yğæ"—Óz*MËµ^^Y½^^W ^...
+
+? 
+Missing character: There is no   in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no Ó in font cmr10!
+! Text line contains an invalid character.
+l.9 i8d”ğuƒa^^U Z•?d‘•Ó^^\
+                          –^^FU×¨›?'…Ìr”TÅ¢,·¢“¬™šÑí…^^Yğæ"—Óz*MËµ^^Y½^^W ^...
+
+? 
+Missing character: There is no – in font cmr10!
+! Text line contains an invalid character.
+l.9 i8d”ğuƒa^^U Z•?d‘•Ó^^\–^^F
+                              U×¨›?'…Ìr”TÅ¢,·¢“¬™šÑí…^^Yğæ"—Óz*MËµ^^Y½^^W ^...
+
+? 
+Missing character: There is no × in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no … in font cmr10!
+! Text line contains an invalid character.
+l.9 ...^U Z•?d‘•Ó^^\–^^FU×¨›?'…Ìr”TÅ¢,·¢“¬™šÑí…^^Y
+                                                  ğæ"—Óz*MËµ^^Y½^^W ^^[ó˜Ïñ...
+
+? 
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no µ in font cmr10!
+! Text line contains an invalid character.
+l.9 ...–^^FU×¨›?'…Ìr”TÅ¢,·¢“¬™šÑí…^^Yğæ"—Óz*MËµ^^Y
+                                                  ½^^W ^^[ó˜ÏñJíh¼÷ï^^^^^F…...
+
+? 
+Missing character: There is no ½ in font cmr10!
+! Text line contains an invalid character.
+l.9 ...U×¨›?'…Ìr”TÅ¢,·¢“¬™šÑí…^^Yğæ"—Óz*MËµ^^Y½^^W
+                                                   ^^[ó˜ÏñJíh¼÷ï^^^^^F…‡=...
+
+? 
+Missing character: There is no   in font cmr10!
+Missing character: There is no  in font cmr10!
+! Text line contains an invalid character.
+l.9 ...'…Ìr”TÅ¢,·¢“¬™šÑí…^^Yğæ"—Óz*MËµ^^Y½^^W ^^[
+                                                  ó˜ÏñJíh¼÷ï^^^^^F…‡=Q€±'h...
+
+? 
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no ï in font cmr10!
+! Text line contains an invalid character.
+l.9 ...™šÑí…^^Yğæ"—Óz*MËµ^^Y½^^W ^^[ó˜ÏñJíh¼÷ï^^^
+                                                  ^^F…‡=Q€±'h„^^X‰¼¤Ø3í<ˆQ...
+
+? 
+! Text line contains an invalid character.
+l.9 ...í…^^Yğæ"—Óz*MËµ^^Y½^^W ^^[ó˜ÏñJíh¼÷ï^^^^^F
+                                                  …‡=Q€±'h„^^X‰¼¤Ø3í<ˆQ^^\...
+
+? 
+Missing character: There is no … in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no „ in font cmr10!
+! Text line contains an invalid character.
+l.9 ...µ^^Y½^^W ^^[ó˜ÏñJíh¼÷ï^^^^^F…‡=Q€±'h„^^X
+                                                  ‰¼¤Ø3í<ˆQ^^\F^^^	Q„™§•w¹÷e...
+
+? 
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+! Text line contains an invalid character.
+l.9 ...[ó˜ÏñJíh¼÷ï^^^^^F…‡=Q€±'h„^^X‰¼¤Ø3í<ˆQ^^\
+                                                  F^^^	Q„™§•w¹÷eUi^^?^^L(¦]+...
+
+? 
+! Text line contains an invalid character.
+l.9 ...ñJíh¼÷ï^^^^^F…‡=Q€±'h„^^X‰¼¤Ø3í<ˆQ^^\F^^^
+                                                  	Q„™§•w¹÷eUi^^?^^L(¦]+|^^^®-Ì
+
+? 
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+! Text line contains an invalid character.
+l.9 ...‡=Q€±'h„^^X‰¼¤Ø3í<ˆQ^^\F^^^	Q„™§•w¹÷eUi^^?
+                                                  ^^L(¦]+|^^^®-Ì
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...€±'h„^^X‰¼¤Ø3í<ˆQ^^\F^^^	Q„™§•w¹÷eUi^^?^^L(
+                                                  ¦]+|^^^®-Ì
+? 
+Missing character: There is no ¦ in font cmr10!
+! Text line contains an invalid character.
+l.9 ...X‰¼¤Ø3í<ˆQ^^\F^^^	Q„™§•w¹÷eUi^^?^^L(¦]+|^^^
+                                                  ®-Ì
+? 
+Missing character: There is no ® in font cmr10!
+Missing character: There is no Ì in font cmr10!
+! Text line contains an invalid character.
+l.10 G^^U
+         G€3" ^^?>+A^^Qe^^^	^^PaôvÖ%K‡^^^z^^X£˜óîĞ^^EA4b 4B”`k§£´Md“ÙÃzpqË...
+
+? 
+Missing character: There is no  in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no   in font cmr10!
+! Text line contains an invalid character.
+l.10 G^^UG€3" ^^?
+                  >+A^^Qe^^^	^^PaôvÖ%K‡^^^z^^X£˜óîĞ^^EA4b 4B”`k§£´Md“ÙÃzpqË...
+
+? 
+! Text line contains an invalid character.
+l.10 G^^UG€3" ^^?>+A^^Q
+                        e^^^	^^PaôvÖ%K‡^^^z^^X£˜óîĞ^^EA4b 4B”`k§£´Md“ÙÃzpqË...
+
+? 
+! Text line contains an invalid character.
+l.10 G^^UG€3" ^^?>+A^^Qe^^^
+                            	^^PaôvÖ%K‡^^^z^^X£˜óîĞ^^EA4b 4B”`k§£´Md“ÙÃzpqË...
+
+? 
+! Text line contains an invalid character.
+l.10 G^^UG€3" ^^?>+A^^Qe^^^	^^P
+                                aôvÖ%K‡^^^z^^X£˜óîĞ^^EA4b 4B”`k§£´Md“ÙÃzpqË...
+
+? 
+Missing character: There is no ô in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no Â in font cmr10!
+! Text line contains an invalid character.
+l.11 û©º/jÂ^^D
+              Ï)mMÆw^^?Ğd^^D—ÒºQuÙ\KíÂ#^^Só^^\•“^^Lâ^^_Ó^^@^^Q^^T^^Q^^A
+? 
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no Æ in font cmr10!
+! Text line contains an invalid character.
+l.11 û©º/jÂ^^DÏ)mMÆw^^?
+                       Ğd^^D—ÒºQuÙ\KíÂ#^^Só^^\•“^^Lâ^^_Ó^^@^^Q^^T^^Q^^A
+? 
+Missing character: There is no Ğ in font cmr10!
+! Text line contains an invalid character.
+l.11 û©º/jÂ^^DÏ)mMÆw^^?Ğd^^D
+                            —ÒºQuÙ\KíÂ#^^Só^^\•“^^Lâ^^_Ó^^@^^Q^^T^^Q^^A
+? 
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no Ù in font cmr10!
+! Undefined control sequence.
+l.11 û©º/jÂ^^DÏ)mMÆw^^?Ğd^^D—ÒºQuÙ\K
+                                    íÂ#^^Só^^\•“^^Lâ^^_Ó^^@^^Q^^T^^Q^^A
+? 
+Missing character: There is no í in font cmr10!
+Missing character: There is no Â in font cmr10!
+! You can't use `macro parameter character #' in horizontal mode.
+l.11 û©º/jÂ^^DÏ)mMÆw^^?Ğd^^D—ÒºQuÙ\KíÂ#
+                                       ^^Só^^\•“^^Lâ^^_Ó^^@^^Q^^T^^Q^^A
+? 
+! Text line contains an invalid character.
+l.11 û©º/jÂ^^DÏ)mMÆw^^?Ğd^^D—ÒºQuÙ\KíÂ#^^S
+                                          ó^^\•“^^Lâ^^_Ó^^@^^Q^^T^^Q^^A
+? 
+Missing character: There is no ó in font cmr10!
+! Text line contains an invalid character.
+l.11 û©º/jÂ^^DÏ)mMÆw^^?Ğd^^D—ÒºQuÙ\KíÂ#^^Só^^\
+                                              •“^^Lâ^^_Ó^^@^^Q^^T^^Q^^A
+? 
+Missing character: There is no • in font cmr10!
+Missing character: There is no “ in font cmr10!
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...Â^^DÏ)mMÆw^^?Ğd^^D—ÒºQuÙ\KíÂ#^^Só^^\•“^^Lâ
+                                                  ^^_Ó^^@^^Q^^T^^Q^^A
+? 
+Missing character: There is no â in font cmr10!
+! Text line contains an invalid character.
+l.11 ...DÏ)mMÆw^^?Ğd^^D—ÒºQuÙ\KíÂ#^^Só^^\•“^^Lâ^^_
+                                                  Ó^^@^^Q^^T^^Q^^A
+? 
+Missing character: There is no Ó in font cmr10!
+! Text line contains an invalid character.
+l.11 ...MÆw^^?Ğd^^D—ÒºQuÙ\KíÂ#^^Só^^\•“^^Lâ^^_Ó^^@
+                                                  ^^Q^^T^^Q^^A
+? 
+! Text line contains an invalid character.
+l.11 ...^^?Ğd^^D—ÒºQuÙ\KíÂ#^^Só^^\•“^^Lâ^^_Ó^^@^^Q
+                                                  ^^T^^Q^^A
+? 
+! Text line contains an invalid character.
+l.11 ...Ğd^^D—ÒºQuÙ\KíÂ#^^Só^^\•“^^Lâ^^_Ó^^@^^Q^^T
+                                                  ^^Q^^A
+? 
+! Text line contains an invalid character.
+l.11 ...^D—ÒºQuÙ\KíÂ#^^Só^^\•“^^Lâ^^_Ó^^@^^Q^^T^^Q
+                                                  ^^A
+? 
+! Text line contains an invalid character.
+l.11 ...ÒºQuÙ\KíÂ#^^Só^^\•“^^Lâ^^_Ó^^@^^Q^^T^^Q^^A
+                                                  
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.12 W#
+       ¢®4´áÕ™•­UÙ<¼sÈB
+? 
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no “ in font cmr10!
+! Text line contains an invalid character.
+l.13 “G^^P
+          ×:^^WşoEb…}^^AÊ@^^CnŸ'Å,W^^E¤Æ°İF¥–7Kum·|~b¿—J6­Vµí^^F“Øf8^^WöK¹Jª...
+
+? 
+Missing character: There is no × in font cmr10!
+! Text line contains an invalid character.
+l.13 “G^^P×:^^W
+               şoEb…}^^AÊ@^^CnŸ'Å,W^^E¤Æ°İF¥–7Kum·|~b¿—J6­Vµí^^F“Øf8^^WöK¹Jª...
+
+? 
+Missing character: There is no ş in font cmr10!
+Missing character: There is no … in font cmr10!
+! Too many }'s.
+l.13 “G^^P×:^^WşoEb…}
+                     ^^AÊ@^^CnŸ'Å,W^^E¤Æ°İF¥–7Kum·|~b¿—J6­Vµí^^F“Øf8^^WöK¹Jª...
+
+? 
+! Text line contains an invalid character.
+l.13 “G^^P×:^^WşoEb…}^^A
+                        Ê@^^CnŸ'Å,W^^E¤Æ°İF¥–7Kum·|~b¿—J6­Vµí^^F“Øf8^^WöK¹Jª...
+
+? 
+Missing character: There is no Ê in font cmr10!
+! Text line contains an invalid character.
+l.13 “G^^P×:^^WşoEb…}^^AÊ@^^C
+                             nŸ'Å,W^^E¤Æ°İF¥–7Kum·|~b¿—J6­Vµí^^F“Øf8^^WöK¹Jª...
+
+? 
+Missing character: There is no Ÿ in font cmr10!
+Missing character: There is no Å in font cmr10!
+! Text line contains an invalid character.
+l.13 “G^^P×:^^WşoEb…}^^AÊ@^^CnŸ'Å,W^^E
+                                      ¤Æ°İF¥–7Kum·|~b¿—J6­Vµí^^F“Øf8^^WöK¹Jª...
+
+? 
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no í in font cmr10!
+! Text line contains an invalid character.
+l.13 ...^AÊ@^^CnŸ'Å,W^^E¤Æ°İF¥–7Kum·|~b¿—J6­Vµí^^F
+                                                  “Øf8^^WöK¹Jª.UÒ¸!Yi^^[ëv6Ë...
+
+? 
+Missing character: There is no “ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+! Text line contains an invalid character.
+l.13 ...nŸ'Å,W^^E¤Æ°İF¥–7Kum·|~b¿—J6­Vµí^^F“Øf8^^W
+                                                  öK¹Jª.UÒ¸!Yi^^[ëv6Ëol91sL¥...
+
+? 
+Missing character: There is no ö in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+! Text line contains an invalid character.
+l.13 ...–7Kum·|~b¿—J6­Vµí^^F“Øf8^^WöK¹Jª.UÒ¸!Yi^^[
+                                                  ëv6Ëol91sL¥íb~!K¸!ú©İp0›M`...
+
+? 
+Missing character: There is no ë in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+! Text line contains an invalid character.
+l.13 ...Yi^^[ëv6Ëol91sL¥íb~!K¸!ú©İp0›M`IèK­lk[Ã^^\
+                                                  krçÌ­Z—]À	^^AnwU Uƒ-ákHY‡•...
+
+? 
+Missing character: There is no ç in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no À in font cmr10!
+! Text line contains an invalid character.
+l.13 ...sL¥íb~!K¸!ú©İp0›M`IèK­lk[Ã^^\krçÌ­Z—]À	^^A
+                                                  nwU Uƒ-ákHY‡•!‰^^Qå;„è£s°...
+
+? 
+Missing character: There is no   in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+! Text line contains an invalid character.
+l.13 ...IèK­lk[Ã^^\krçÌ­Z—]À	^^AnwU Uƒ-ákHY‡•!‰^^Q
+                                                  å;„è£s°^^CØ^^A„â60† ı²Ò¶ã...
+
+? 
+Missing character: There is no å in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no £ in font cmr10!
+! Text line contains an invalid character.
+l.13 ...Ã^^\krçÌ­Z—]À	^^AnwU Uƒ-ákHY‡•!‰^^Qå;„è£s
+                                                  °^^CØ^^A„â60† ı²Ò¶ãX•U¡lù+...
+
+? 
+Missing character: There is no ° in font cmr10!
+! Text line contains an invalid character.
+l.13 ...krçÌ­Z—]À	^^AnwU Uƒ-ákHY‡•!‰^^Qå;„è£s°^^C
+                                                  Ø^^A„â60† ı²Ò¶ãX•U¡lù+œ¤Ô‰...
+
+? 
+Missing character: There is no Ø in font cmr10!
+! Text line contains an invalid character.
+l.13 ...­Z—]À	^^AnwU Uƒ-ákHY‡•!‰^^Qå;„è£s°^^CØ^^A
+                                                  „â60† ı²Ò¶ãX•U¡lù+œ¤Ô‰^^Y8...
+
+? 
+Missing character: There is no „ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+! Text line contains an invalid character.
+l.13 ...^Qå;„è£s°^^CØ^^A„â60† ı²Ò¶ãX•U¡lù+œ¤Ô‰^^Y
+                                                  8µÃ¬^^Q¡k?« @ü¤¯Í^^Uúâ1ı]...
+
+? 
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+! Text line contains an invalid character.
+l.13 ...s°^^CØ^^A„â60† ı²Ò¶ãX•U¡lù+œ¤Ô‰^^Y8µÃ¬^^Q
+                                                  ¡k?« @ü¤¯Í^^Uúâ1ı]t^^^ª+•...
+
+? 
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+! Text line contains an invalid character.
+l.13 ...A„â60† ı²Ò¶ãX•U¡lù+œ¤Ô‰^^Y8µÃ¬^^Q¡k?« @ü¤
+                                                  ¯Í^^Uúâ1ı]t^^^ª+•W³9<	Dôş_...
+
+? 
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no Í in font cmr10!
+! Text line contains an invalid character.
+l.13 ...† ı²Ò¶ãX•U¡lù+œ¤Ô‰^^Y8µÃ¬^^Q¡k?« @ü¤¯Í^^U
+                                                  úâ1ı]t^^^ª+•W³9<	Dôş_Õ•*.ú...
+
+? 
+Missing character: There is no ú in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no ı in font cmr10!
+! Text line contains an invalid character.
+l.13 ...U¡lù+œ¤Ô‰^^Y8µÃ¬^^Q¡k?« @ü¤¯Í^^Uúâ1ı]t^^^
+                                                  ª+•W³9<	Dôş_Õ•*.ú6^^GS²^^D...
+
+? 
+Missing character: There is no ª in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ş in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.13 ...8µÃ¬^^Q¡k?« @ü¤¯Í^^Uúâ1ı]t^^^ª+•W³9<	Dôş_
+                                                  Õ•*.ú6^^GS²^^DÓu1ı&HeOG*,Ñ...
+
+? 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 98.
+(Font)              <10.95> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 98.
+(Font)              <8> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 98.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 117.
+(Font)              <6> on input line 13.
+! Text line contains an invalid character.
+l.13 ...?« @ü¤¯Í^^Uúâ1ı]t^^^ª+•W³9<	Dôş_Õ•*.ú6^^G
+                                                  S²^^DÓu1ı&HeOG*,Ñ^^\w·Ìîy¤...
 
- (/usr/share/texmf/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 117.
+? 
+! Text line contains an invalid character.
+l.13 ...¤¯Í^^Uúâ1ı]t^^^ª+•W³9<	Dôş_Õ•*.ú6^^GS²^^D
+                                                  Óu1ı&HeOG*,Ñ^^\w·Ìîy¤÷ËFÕ...
 
-Overfull \vbox (18.06749pt too high) has occurred while \output is active []
+? 
+! Misplaced alignment tab character &.
+l.13 ...^Uúâ1ı]t^^^ª+•W³9<	Dôş_Õ•*.ú6^^GS²^^DÓu1ı&
+                                                  HeOG*,Ñ^^\w·Ìîy¤÷ËFÕ«,`3­...
+
+? 
+! Text line contains an invalid character.
+l.13 ...^ª+•W³9<	Dôş_Õ•*.ú6^^GS²^^DÓu1ı&HeOG*,Ñ^^\
+                                                  w·Ìîy¤÷ËFÕ«,`3­ºQI»^^LnêK...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.13 ...²^^DÓu1ı&HeOG*,Ñ^^\w·Ìîy¤÷ËFÕ«,`3­ºQI»^^L
+                                                  nêK;0—æ•%^^D^^_—MÕ]w÷aò^^F...
+
+? 
+Missing character: There is no Õ in font cmr8!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no » in font cmr10!
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...^^DÓu1ı&HeOG*,Ñ^^\w·Ìîy¤÷ËFÕ«,`3­ºQI»^^Ln
+                                                  êK;0—æ•%^^D^^_—MÕ]w÷aò^^FÔ...
+
+? 
+Missing character: There is no ê in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no € in font cmr10!
+! Text line contains an invalid character.
+l.14 ‚(ğßÍt–¯ÅqäÔ¬é°N–±ş’€>)^^S
+                                ­ä^^\QÍTÙSVp$¢Ë®{|]Úo©^^Zƒ‘k{5ı´s^^R¼”‰SHí...
+
+? 
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no ä in font cmr10!
+! Text line contains an invalid character.
+l.14 ‚(ğßÍt–¯ÅqäÔ¬é°N–±ş’€>)^^S­ä^^\
+                                     QÍTÙSVp$¢Ë®{|]Úo©^^Zƒ‘k{5ı´s^^R¼”‰SHí...
+
+? 
+Missing character: There is no Í in font cmr10!
+Missing character: There is no Ù in font cmr10!
+! Text line contains an invalid character.
+l.14 ...äÔ¬é°N–±ş’€>)^^S­ä^^\QÍTÙSVp$¢Ë®{|]Úo©^^Z
+                                                  ƒ‘k{5ı´s^^R¼”‰SHít:’ÈÒ>#...
+
+? 
+! Text line contains an invalid character.
+l.14 ...>)^^S­ä^^\QÍTÙSVp$¢Ë®{|]Úo©^^Zƒ‘k{5ı´s^^R
+                                                  ¼”‰SHít:’ÈÒ>#‡ŞEä¦·>ec÷Îƒ...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.14 ...SVp$¢Ë®{|]Úo©^^Zƒ‘k{5ı´s^^R¼”‰SHít:’ÈÒ>#
+                                                  ‡ŞEä¦·>ec÷Îƒ^^V^^UÛ~;‡q“5x...
+
+? 
+! Text line contains an invalid character.
+l.14 ...Zƒ‘k{5ı´s^^R¼”‰SHít:’ÈÒ>#‡ŞEä¦·>ec÷Îƒ^^V
+                                                  ^^UÛ~;‡q“5x¾ë4lÁiÌÆz,C\©d‘...
+
+? 
+! Text line contains an invalid character.
+l.14 ...k{5ı´s^^R¼”‰SHít:’ÈÒ>#‡ŞEä¦·>ec÷Îƒ^^V^^U
+                                                  Û~;‡q“5x¾ë4lÁiÌÆz,C\©d‘ÃÉ¸...
+
+? 
+! Undefined control sequence.
+l.14 ...Ò>#‡ŞEä¦·>ec÷Îƒ^^V^^UÛ~;‡q“5x¾ë4lÁiÌÆz,C\©
+                                                  d‘ÃÉ¸‹ÆíÙú°[^^AõgÚù®ªëßƒèñ...
+
+? 
+! Text line contains an invalid character.
+l.14 ...^^V^^UÛ~;‡q“5x¾ë4lÁiÌÆz,C\©d‘ÃÉ¸‹ÆíÙú°[^^A
+                                                  õgÚù®ªëßƒèñÔñô~[ÃêêÚrô¨Ê[c...
+
+? 
+! Text line contains an invalid character.
+l.14 ...¸‹ÆíÙú°[^^AõgÚù®ªëßƒèñÔñô~[ÃêêÚrô¨Ê[c¸Ú^^Q
+                                                  º®ÚÙ²ó^^\ÜM›š{ß"s^^Eé¡ÿn@...
+
+? 
+! Text line contains an invalid character.
+l.14 ...ú°[^^AõgÚù®ªëßƒèñÔñô~[ÃêêÚrô¨Ê[c¸Ú^^Qº®ÚÙ
+                                                  ²ó^^\ÜM›š{ß"s^^Eé¡ÿn@¸^^O·...
+
+? 
+! Text line contains an invalid character.
+l.14 ...AõgÚù®ªëßƒèñÔñô~[ÃêêÚrô¨Ê[c¸Ú^^Qº®ÚÙ²ó^^\
+                                                  ÜM›š{ß"s^^Eé¡ÿn@¸^^O·İ^^A...
+
+? 
+! Text line contains an invalid character.
+l.14 ...ñÔñô~[ÃêêÚrô¨Ê[c¸Ú^^Qº®ÚÙ²ó^^\ÜM›š{ß"s^^E
+                                                  é¡ÿn@¸^^O·İ^^A;^^H³Àÿ$oæ ...
+
+? 
+! Text line contains an invalid character.
+l.14 ...Úrô¨Ê[c¸Ú^^Qº®ÚÙ²ó^^\ÜM›š{ß"s^^Eé¡ÿn@¸^^O
+                                                  ·İ^^A;^^H³Àÿ$oæ ÅK^^DıÉŠ&...
+
+? 
+! Text line contains an invalid character.
+l.14 ...c¸Ú^^Qº®ÚÙ²ó^^\ÜM›š{ß"s^^Eé¡ÿn@¸^^O·İ^^A
+                                                  ;^^H³Àÿ$oæ ÅK^^DıÉŠ&Óm@½E<...
+
+? 
+! Text line contains an invalid character.
+l.14 ...^Qº®ÚÙ²ó^^\ÜM›š{ß"s^^Eé¡ÿn@¸^^O·İ^^A;^^H
+                                                  ³Àÿ$oæ ÅK^^DıÉŠ&Óm@½E<q˜ÕI...
+
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.14 ...ÚÙ²ó^^\ÜM›š{ß"s^^Eé¡ÿn@¸^^O·İ^^A;^^H³Àÿ$
+                                                  oæ ÅK^^DıÉŠ&Óm@½E<q˜ÕIu^^...
+
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.14 ...ÚÙ²ó^^\ÜM›š{ß"s^^Eé¡ÿn@¸^^O·İ^^A;^^H³Àÿ$
+                                                  oæ ÅK^^DıÉŠ&Óm@½E<q˜ÕIu^^...
+
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.14 ...ÚÙ²ó^^\ÜM›š{ß"s^^Eé¡ÿn@¸^^O·İ^^A;^^H³Àÿ$
+                                                  oæ ÅK^^DıÉŠ&Óm@½E<q˜ÕIu^^...
+
+? 
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Å in font cmr10!
+! Text line contains an invalid character.
+l.14 ...ÜM›š{ß"s^^Eé¡ÿn@¸^^O·İ^^A;^^H³Àÿ$oæ ÅK^^D
+                                                  ıÉŠ&Óm@½E<q˜ÕIu^^\^^Soé^^...
+
+? 
+Missing character: There is no ı in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no Š in font cmr10!
+! Misplaced alignment tab character &.
+l.14 ...{ß"s^^Eé¡ÿn@¸^^O·İ^^A;^^H³Àÿ$oæ ÅK^^DıÉŠ&
+                                                  Óm@½E<q˜ÕIu^^\^^Soé^^A¶^^...
+
+? 
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no Õ in font cmr10!
+! Text line contains an invalid character.
+l.14 ...¸^^O·İ^^A;^^H³Àÿ$oæ ÅK^^DıÉŠ&Óm@½E<q˜ÕIu
+                                                  ^^\^^Soé^^A¶^^E^^GÊ^^N'@Ë`...
+
+? 
+! Text line contains an invalid character.
+l.14 ...O·İ^^A;^^H³Àÿ$oæ ÅK^^DıÉŠ&Óm@½E<q˜ÕIu^^\
+                                                  ^^Soé^^A¶^^E^^GÊ^^N'@Ë`MÇu...
+
+? 
+! Text line contains an invalid character.
+l.14 ...^^A;^^H³Àÿ$oæ ÅK^^DıÉŠ&Óm@½E<q˜ÕIu^^\^^S
+                                                  oé^^A¶^^E^^GÊ^^N'@Ë`MÇu^^W...
+
+? 
+Missing character: There is no é in font cmr10!
+! Text line contains an invalid character.
+l.14 ...^^H³Àÿ$oæ ÅK^^DıÉŠ&Óm@½E<q˜ÕIu^^\^^Soé^^A
+                                                  ¶^^E^^GÊ^^N'@Ë`MÇu^^Wíd%nh...
+
+? 
+Missing character: There is no ¶ in font cmr10!
+! Text line contains an invalid character.
+l.14 ...Àÿ$oæ ÅK^^DıÉŠ&Óm@½E<q˜ÕIu^^\^^Soé^^A¶^^E
+                                                  ^^GÊ^^N'@Ë`MÇu^^Wíd%nh´ì¼À...
+
+? 
+! Text line contains an invalid character.
+l.14 ...oæ ÅK^^DıÉŠ&Óm@½E<q˜ÕIu^^\^^Soé^^A¶^^E^^G
+                                                  Ê^^N'@Ë`MÇu^^Wíd%nh´ì¼ÀE^^...
+
+? 
+Missing character: There is no Ê in font cmr10!
+! Text line contains an invalid character.
+l.14 ...K^^DıÉŠ&Óm@½E<q˜ÕIu^^\^^Soé^^A¶^^E^^GÊ^^N
+                                                  '@Ë`MÇu^^Wíd%nh´ì¼ÀE^^N•Å–...
+
+? 
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no Ç in font cmr10!
+! Text line contains an invalid character.
+l.14 ...@½E<q˜ÕIu^^\^^Soé^^A¶^^E^^GÊ^^N'@Ë`MÇu^^W
+                                                  íd%nh´ì¼ÀE^^N•Å–®r^^G¯Û8!ê...
+
+? 
+Missing character: There is no í in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+! You can't use `macro parameter character #' in horizontal mode.
+l.15 ºÇ†Wµ,ë™».šÎ—ĞV9#
+                      &^^TÁô¿ùı
+? 
+! Misplaced alignment tab character &.
+l.15 ºÇ†Wµ,ë™».šÎ—ĞV9#&
+                       ^^TÁô¿ùı
+? 
+! Text line contains an invalid character.
+l.15 ºÇ†Wµ,ë™».šÎ—ĞV9#&^^T
+                          Áô¿ùı
+? 
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no ç in font cmr10!
+! Too many }'s.
+l.16 ƒ~Œãç}
+           ¿Â”Ş&ï^^L‘ÙŒ±#+!à$“^^L^^_?5eÄ,Ü9eÄD ğí]^^^°vQÁ6Ş(_4¶ˆÅÖé¢Y^^E'...
+
+? 
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no Ş in font cmr10!
+! Misplaced alignment tab character &.
+l.16 ƒ~Œãç}¿Â”Ş&
+                ï^^L‘ÙŒ±#+!à$“^^L^^_?5eÄ,Ü9eÄD ğí]^^^°vQÁ6Ş(_4¶ˆÅÖé¢Y^^E'...
+
+? 
+Missing character: There is no  in font cmr10!
+Missing character: There is no ï in font cmr10!
+
+Overfull \hbox (103.08344pt too wide) in paragraph at lines 13--16
+[]\OT1/cmr/m/n/10.95 nK;0(tqN>)QTSVp$[]$oKm@E<qIuo'@`MudW,.V9 
+ []
 
 
-[1
+! LaTeX Error: Missing \begin{document}.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./resume.aux) ) 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ƒ~Œãç}¿Â”Ş&ï^^L‘
+                      ÙŒ±#+!à$“^^L^^_?5eÄ,Ü9eÄD ğí]^^^°vQÁ6Ş(_4¶ˆÅÖé¢Y^^E'...
+
+? 
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no ± in font cmr10!
+! You can't use `macro parameter character #' in horizontal mode.
+l.16 ƒ~Œãç}¿Â”Ş&ï^^L‘ÙŒ±#
+                          +!à$“^^L^^_?5eÄ,Ü9eÄD ğí]^^^°vQÁ6Ş(_4¶ˆÅÖé¢Y^^E'...
+
+? 
+Missing character: There is no à in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16 ƒ~Œãç}¿Â”Ş&ï^^L‘ÙŒ±#+!à$“^^L
+                                   ^^_?5eÄ,Ü9eÄD ğí]^^^°vQÁ6Ş(_4¶ˆÅÖé¢Y^^E'...
+
+? 
+Missing character: There is no  in font cmr10!
+Missing character: There is no “ in font cmr10!
+! Text line contains an invalid character.
+l.16 ƒ~Œãç}¿Â”Ş&ï^^L‘ÙŒ±#+!à$“^^L^^_
+                                      ?5eÄ,Ü9eÄD ğí]^^^°vQÁ6Ş(_4¶ˆÅÖé¢Y^^E'...
+
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ƒ~Œãç}¿Â”Ş&ï^^L‘ÙŒ±#+!à$“^^L^^_?
+                                       5eÄ,Ü9eÄD ğí]^^^°vQÁ6Ş(_4¶ˆÅÖé¢Y^^E'...
+
+? 
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no í in font cmr10!
+! Text line contains an invalid character.
+l.16 ...”Ş&ï^^L‘ÙŒ±#+!à$“^^L^^_?5eÄ,Ü9eÄD ğí]^^^
+                                                  °vQÁ6Ş(_4¶ˆÅÖé¢Y^^E'x§×«...
+
+? 
+Missing character: There is no ° in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ş in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16 ...ÙŒ±#+!à$“^^L^^_?5eÄ,Ü9eÄD ğí]^^^°vQÁ6Ş(_
+                                                  4¶ˆÅÖé¢Y^^E'x§×«t°MÄŸ#]Œ#...
+
+? 
+! Text line contains an invalid character.
+l.16 ...^L^^_?5eÄ,Ü9eÄD ğí]^^^°vQÁ6Ş(_4¶ˆÅÖé¢Y^^E
+                                                  'x§×«t°MÄŸ#]Œ#^^Tõÿ÷¬áÿ^^...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.16 ...eÄD ğí]^^^°vQÁ6Ş(_4¶ˆÅÖé¢Y^^E'x§×«t°MÄŸ#
+                                                  ]Œ#^^Tõÿ÷¬áÿ^^UÆZz¼:ü!ËI^^...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.16 ... ğí]^^^°vQÁ6Ş(_4¶ˆÅÖé¢Y^^E'x§×«t°MÄŸ#]Œ#
+                                                  ^^Tõÿ÷¬áÿ^^UÆZz¼:ü!ËI^^_ƒ¬...
+
+? 
+! Text line contains an invalid character.
+l.16 ...]^^^°vQÁ6Ş(_4¶ˆÅÖé¢Y^^E'x§×«t°MÄŸ#]Œ#^^T
+                                                  õÿ÷¬áÿ^^UÆZz¼:ü!ËI^^_ƒ¬»^^...
+
+? 
+! Text line contains an invalid character.
+l.16 ...Ş(_4¶ˆÅÖé¢Y^^E'x§×«t°MÄŸ#]Œ#^^Tõÿ÷¬áÿ^^U
+                                                  ÆZz¼:ü!ËI^^_ƒ¬»^^P+ëù“Ü^^...
+
+? 
+! Text line contains an invalid character.
+l.16 ...^^E'x§×«t°MÄŸ#]Œ#^^Tõÿ÷¬áÿ^^UÆZz¼:ü!ËI^^_
+                                                  ƒ¬»^^P+ëù“Ü^^QÉq.ë>J›Íz†/...
+
+? 
+! Text line contains an invalid character.
+l.16 ...×«t°MÄŸ#]Œ#^^Tõÿ÷¬áÿ^^UÆZz¼:ü!ËI^^_ƒ¬»^^P
+                                                  +ëù“Ü^^QÉq.ë>J›Íz†/ì°4ßc...
+
+? 
+! Text line contains an invalid character.
+l.16 ...]Œ#^^Tõÿ÷¬áÿ^^UÆZz¼:ü!ËI^^_ƒ¬»^^P+ëù“Ü^^Q
+                                                  Éq.ë>J›Íz†/ì°4ßcWYª*Û9‘…ª...
+
+? 
+! Text line contains an invalid character.
+l.16 ...+ëù“Ü^^QÉq.ë>J›Íz†/ì°4ßcWYª*Û9‘…ª_÷lf^^B
+                                                  }—²ÜŞµ}^^HY÷9Àíƒ§ü^^Oå3–>
+? 
+! Extra }, or forgotten $.
+l.16 ...+ëù“Ü^^QÉq.ë>J›Íz†/ì°4ßcWYª*Û9‘…ª_÷lf^^B}
+                                                  —²ÜŞµ}^^HY÷9Àíƒ§ü^^Oå3–>
+? 
+! Extra }, or forgotten $.
+l.16 ...^QÉq.ë>J›Íz†/ì°4ßcWYª*Û9‘…ª_÷lf^^B}—²ÜŞµ}
+                                                  ^^HY÷9Àíƒ§ü^^Oå3–>
+? 
+! Text line contains an invalid character.
+l.16 ...q.ë>J›Íz†/ì°4ßcWYª*Û9‘…ª_÷lf^^B}—²ÜŞµ}^^H
+                                                  Y÷9Àíƒ§ü^^Oå3–>
+? 
+! Text line contains an invalid character.
+l.16 ...4ßcWYª*Û9‘…ª_÷lf^^B}—²ÜŞµ}^^HY÷9Àíƒ§ü^^O
+                                                  å3–>
+? 
+! Text line contains an invalid character.
+l.56 xÚ­–eXTİÚ€QJº¤¤†.éî^^^
+                           é–^^\f††ahDZ:$¤ERº»»^^E^^A•””–^^Tşæ}Ïw^ıÎùû]{ÿ...
+
+? 
+! Text line contains an invalid character.
+l.56 xÚ­–eXTİÚ€QJº¤¤†.éî^^^é–^^\
+                                 f††ahDZ:$¤ERº»»^^E^^A•””–^^Tşæ}Ïw^ıÎùû]{ÿ...
+
+? 
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ÷ in font cmr8!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no » in font cmr10!
+! Text line contains an invalid character.
+l.56 ...XTİÚ€QJº¤¤†.éî^^^é–^^\f††ahDZ:$¤ERº»»^^E
+                                                  ^^A•””–^^Tşæ}Ïw^ıÎùû]{ÿØ÷...
+
+? 
+! Text line contains an invalid character.
+l.56 ...Ú€QJº¤¤†.éî^^^é–^^\f††ahDZ:$¤ERº»»^^E^^A
+                                                  •””–^^Tşæ}Ïw^ıÎùû]{ÿØ÷ZÏz...
+
+? 
+Missing character: There is no • in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no – in font cmr10!
+! Text line contains an invalid character.
+l.56 ...†.éî^^^é–^^\f††ahDZ:$¤ERº»»^^E^^A•””–^^T
+                                                  şæ}Ïw^ıÎùû]{ÿØ÷ZÏz{?kí¹†...
+
+? 
+Missing character: There is no  in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no æ in font cmr10!
+! Too many }'s.
+l.56 ...^^^é–^^\f††ahDZ:$¤ERº»»^^E^^A•””–^^Tşæ}
+                                                  Ïw^ıÎùû]{ÿØ÷ZÏz{?kí¹†™^[—...
+
+? 
+Missing character: There is no Ï in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.56 ...é–^^\f††ahDZ:$¤ERº»»^^E^^A•””–^^Tşæ}Ïw^
+                                                  ıÎùû]{ÿØ÷ZÏz{?kí¹†™^[—K^^...
+
+? 
+! Text line contains an invalid character.
+l.56 ...A•””–^^Tşæ}Ïw^ıÎùû]{ÿØ÷ZÏz{?kí¹†™^[—K^^N
+                                                  ^^B³‚^^BaÎ^^H.>n>q€‚†¼^^Q^...
+
+? 
+! Text line contains an invalid character.
+l.56 ...”–^^Tşæ}Ïw^ıÎùû]{ÿØ÷ZÏz{?kí¹†™^[—K^^N^^B
+                                                  ³‚^^BaÎ^^H.>n>q€‚†¼^^Q^^_/...
+
+? 
+! Text line contains an invalid character.
+l.56 ...şæ}Ïw^ıÎùû]{ÿØ÷ZÏz{?kí¹†™^[—K^^N^^B³‚^^B
+                                                  aÎ^^H.>n>q€‚†¼^^Q^^_/€›—W...
+
+? 
+! Text line contains an invalid character.
+l.56 ...w^ıÎùû]{ÿØ÷ZÏz{?kí¹†™^[—K^^N^^B³‚^^BaÎ^^H
+                                                  .>n>q€‚†¼^^Q^^_/€›—W^^^›™...
+
+? 
+! Text line contains an invalid character.
+l.56 ...Ïz{?kí¹†™^[—K^^N^^B³‚^^BaÎ^^H.>n>q€‚†¼^^Q
+                                                  ^^_/€›—W^^^›™Y^^A^^N^^E!ì...
+
+? 
+! Text line contains an invalid character.
+l.56 ...{?kí¹†™^[—K^^N^^B³‚^^BaÎ^^H.>n>q€‚†¼^^Q^^_
+                                                  /€›—W^^^›™Y^^A^^N^^E!ì`ÎŠ...
+
+? 
+! Text line contains an invalid character.
+l.56 ...—K^^N^^B³‚^^BaÎ^^H.>n>q€‚†¼^^Q^^_/€›—W^^^
+                                                  ›™Y^^A^^N^^E!ì`ÎŠ ^^DT^^\À...
+
+? 
+! Text line contains an invalid character.
+l.56 ...^B³‚^^BaÎ^^H.>n>q€‚†¼^^Q^^_/€›—W^^^›™Y^^A
+                                                  ^^N^^E!ì`ÎŠ ^^DT^^\À'&Æ^^O...
+
+? 
+! Text line contains an invalid character.
+l.56 ...‚^^BaÎ^^H.>n>q€‚†¼^^Q^^_/€›—W^^^›™Y^^A^^N
+                                                  ^^E!ì`ÎŠ ^^DT^^\À'&Æ^^O^^@...
+
+? 
+! Text line contains an invalid character.
+l.56 ...BaÎ^^H.>n>q€‚†¼^^Q^^_/€›—W^^^›™Y^^A^^N^^E
+                                                  !ì`ÎŠ ^^DT^^\À'&Æ^^O^^@B­...
+
+? 
+! Text line contains an invalid character.
+l.56 ...>q€‚†¼^^Q^^_/€›—W^^^›™Y^^A^^N^^E!ì`ÎŠ ^^D
+                                                  T^^\À'&Æ^^O^^@B­^^OÈ[\HPœ...
+
+? 
+! Text line contains an invalid character.
+l.56 ...†¼^^Q^^_/€›—W^^^›™Y^^A^^N^^E!ì`ÎŠ ^^DT^^\
+                                                  À'&Æ^^O^^@B­^^OÈ[\HPœW^^X...
+
+? 
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.56 ...^Q^^_/€›—W^^^›™Y^^A^^N^^E!ì`ÎŠ ^^DT^^\À'&
+                                                  Æ^^O^^@B­^^OÈ[\HPœW^^X›^^...
+
+? 
+! Text line contains an invalid character.
+l.56 ..._/€›—W^^^›™Y^^A^^N^^E!ì`ÎŠ ^^DT^^\À'&Æ^^O
+                                                  ^^@B­^^OÈ[\HPœW^^X›^^Y ^^...
+
+? 
+! Text line contains an invalid character.
+l.56 ...›—W^^^›™Y^^A^^N^^E!ì`ÎŠ ^^DT^^\À'&Æ^^O^^@
+                                                  B­^^OÈ[\HPœW^^X›^^Y ^^@sñ...
+
+? 
+! Text line contains an invalid character.
+l.56 ...^›™Y^^A^^N^^E!ì`ÎŠ ^^DT^^\À'&Æ^^O^^@B­^^O
+                                                  È[\HPœW^^X›^^Y ^^@sñ†ÛÙØ"^^@l
+
+? 
+! Undefined control sequence.
+l.56 ...^A^^N^^E!ì`ÎŠ ^^DT^^\À'&Æ^^O^^@B­^^OÈ[\HP
+                                                  œW^^X›^^Y ^^@sñ†ÛÙØ"^^@l
+? 
+! Text line contains an invalid character.
+l.56 ...^^E!ì`ÎŠ ^^DT^^\À'&Æ^^O^^@B­^^OÈ[\HPœW^^X
+                                                  ›^^Y ^^@sñ†ÛÙØ"^^@l
+? 
+! Text line contains an invalid character.
+l.56 ...ì`ÎŠ ^^DT^^\À'&Æ^^O^^@B­^^OÈ[\HPœW^^X›^^Y
+                                                   ^^@sñ†ÛÙØ"^^@l
+? 
+! Text line contains an invalid character.
+l.56 ... ^^DT^^\À'&Æ^^O^^@B­^^OÈ[\HPœW^^X›^^Y ^^@
+                                                  sñ†ÛÙØ"^^@l
+? 
+! Text line contains an invalid character.
+l.56 ...&Æ^^O^^@B­^^OÈ[\HPœW^^X›^^Y ^^@sñ†ÛÙØ"^^@
+                                                  l
+? 
+! Text line contains an invalid character.
+l.57 ì^^?
+         ^^E‰^^@äœ p;0È^^Y ^^ABØB9À G€.^^Ll^^GExs^^Cä^^\^^]^^AÏÿZá^^Fx^^Nu...
+
+? 
+! Text line contains an invalid character.
+l.57 ì^^?^^E
+            ‰^^@äœ p;0È^^Y ^^ABØB9À G€.^^Ll^^GExs^^Cä^^\^^]^^AÏÿZá^^Fx^^Nu...
+
+? 
+! Text line contains an invalid character.
+l.57 ì^^?^^E‰^^@
+                äœ p;0È^^Y ^^ABØB9À G€.^^Ll^^GExs^^Cä^^\^^]^^AÏÿZá^^Fx^^Nu...
+
+? 
+! Text line contains an invalid character.
+l.57 ì^^?^^E‰^^@äœ p;0È^^Y
+                           ^^ABØB9À G€.^^Ll^^GExs^^Cä^^\^^]^^AÏÿZá^^Fx^^Nu...
+
+? 
+! Text line contains an invalid character.
+l.57 ì^^?^^E‰^^@äœ p;0È^^Y ^^A
+                              BØB9À G€.^^Ll^^GExs^^Cä^^\^^]^^AÏÿZá^^Fx^^Nu...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.57 ì^^?^^E‰^^@äœ p;0È^^Y ^^ABØB9À G€.^^L
+                                            l^^GExs^^Cä^^\^^]^^AÏÿZá^^Fx^^Nu...
+
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.57 ì^^?^^E‰^^@äœ p;0È^^Y ^^ABØB9À G€.^^L
+                                            l^^GExs^^Cä^^\^^]^^AÏÿZá^^Fx^^Nu...
+
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.57 ì^^?^^E‰^^@äœ p;0È^^Y ^^ABØB9À G€.^^L
+                                            l^^GExs^^Cä^^\^^]^^AÏÿZá^^Fx^^Nu...
+
+? 
+Missing character: There is no ı in font cmr8!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no € in font cmr10!
+
+Overfull \hbox (38.49141pt too wide) in paragraph at lines 16--57
+\OML/cmm/m/it/10.95 =Type=Page=Contents\OT1/cmr/m/n/10.95 30\OML/cmm/m/it/10.95
+ R=Resources\OT1/cmr/m/n/10.95 10\OML/cmm/m/it/10.95 R=MediaBox\OT1/cmr/m/n/10.
+95 [00612792]\OML/cmm/m/it/10.95 =Parent\OT1/cmr/m/n/10.95 100\OML/cmm/m/it/10.
+95 R >> 
+ []
+
+
+Overfull \hbox (8599.16614pt too wide) in paragraph at lines 16--57
+\OML/cmm/m/it/10.95 endobj\OT1/cmr/m/n/10.95 110\OML/cmm/m/it/10.95 obj\OT1/cmr
+/m/n/10.95 [357\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8306\OML/cmm/m/it/10.95 
+:\OT1/cmr/m/n/10.95 7511\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1511\OML/cmm/m/
+it/10.95 :\OT1/cmr/m/n/10.95 1511\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1511\O
+ML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1511\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.
+95 1511\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1511\OML/cmm/m/it/10.95 :\OT1/cm
+r/m/n/10.95 1511\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1511\OML/cmm/m/it/10.95
+ :\OT1/cmr/m/n/10.95 1511\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1511\OML/cmm/m
+/it/10.95 :\OT1/cmr/m/n/10.95 1306\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7306\
+OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7306\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10
+.95 7766\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7511\OML/cmm/m/it/10.95 :\OT1/c
+mr/m/n/10.95 1511\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1766\OML/cmm/m/it/10.9
+5 :\OT1/cmr/m/n/10.95 7743\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 3703\OML/cmm/
+m/it/10.95 :\OT1/cmr/m/n/10.95 9715\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6755
+678\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 3652\OML/cmm/m/it/10.95 :\OT1/cmr/m/
+n/10.95 8773\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6743\OML/cmm/m/it/10.95 :\O
+T1/cmr/m/n/10.95 3385\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6525768\OML/cmm/m/
+it/10.95 :\OT1/cmr/m/n/10.95 9627\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 2896\O
+ML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7743\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.
+95 3766\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7678\OML/cmm/m/it/10.95 :\OT1/cm
+r/m/n/10.95 3766\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7729\OML/cmm/m/it/10.95
+ :\OT1/cmr/m/n/10.95 4562\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 2715\OML/cmm/m
+/it/10.95 :\OT1/cmr/m/n/10.95 6743\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 3743\
+OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 3998\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10
+.95 9743\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 3743\OML/cmm/m/it/10.95 :\OT1/c
+mr/m/n/10.95 3613\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 3306\OML/cmm/m/it/10.9
+5 :\OT1/cmr/m/n/10.95 7514\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4306\OML/cmm/
+m/it/10.95 :\OT1/cmr/m/n/10.95 7511\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1306
+\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7306\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/1
+0.95 7511\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1460460511\OML/cmm/m/it/10.95 
+:\OT1/cmr/m/n/10.95 1460306\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7460511\OML/
+cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1306\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 
+7306\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7460255\OML/cmm/m/it/10.95 :\OT1/cm
+r/m/n/10.95 6817\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8562\OML/cmm/m/it/10.95
+ :\OT1/cmr/m/n/10.95 2511\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1511\OML/cmm/m
+/it/10.95 :\OT1/cmr/m/n/10.95 1460421\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 74
+08\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 9332\OML/cmm/m/it/10.95 :\OT1/cmr/m/n
+/10.95 2536\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7460664\OML/cmm/m/it/10.95 :
+\OT1/cmr/m/n/10.95 4463\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 9485\OML/cmm/m/i
+t/10.95 :\OT1/cmr/m/n/10.95 6]\OML/cmm/m/it/10.95 endobj\OT1/cmr/m/n/10.95 120\
+OML/cmm/m/it/10.95 obj\OT1/cmr/m/n/10.95 [319\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/
+10.95 4319\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4350894\OML/cmm/m/it/10.95 :\
+OT1/cmr/m/n/10.95 4543\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1543\OML/cmm/m/it
+/10.95 :\OT1/cmr/m/n/10.95 1894\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4869\OML
+/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4818\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95
+ 1830\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6881\OML/cmm/m/it/10.95 :\OT1/cmr/
+m/n/10.95 9755\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 5723\OML/cmm/m/it/10.95 :
+\OT1/cmr/m/n/10.95 6904\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 2900436\OML/cmm/
+m/it/10.95 :\OT1/cmr/m/n/10.95 1594\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4901
+\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4691\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/1
+0.95 71091\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7900863\OML/cmm/m/it/10.95 :\
+OT1/cmr/m/n/10.95 9786\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1863\OML/cmm/m/it
+/10.95 :\OT1/cmr/m/n/10.95 9862\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 5638\OML
+/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 9800884\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10
+.95 7869\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 41188\OML/cmm/m/it/10.95 :\OT1/
+cmr/m/n/10.95 9869\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4869\OML/cmm/m/it/10.
+95 :\OT1/cmr/m/n/10.95 4702\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8319\OML/cmm
+/m/it/10.95 :\OT1/cmr/m/n/10.95 4602\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 831
+9\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4575319\OML/cmm/m/it/10.95 :\OT1/cmr/m
+/n/10.95 4319\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4559638\OML/cmm/m/it/10.95
+ :\OT1/cmr/m/n/10.95 9511\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1638\OML/cmm/m
+/it/10.95 :\OT1/cmr/m/n/10.95 9527\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1351\
+OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4575638\OML/cmm/m/it/10.95 :\OT1/cmr/m/n
+/10.95 9319\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4351\OML/cmm/m/it/10.95 :\OT
+1/cmr/m/n/10.95 4606\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 9319\OML/cmm/m/it/1
+0.95 :\OT1/cmr/m/n/10.95 4958\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 3638\OML/c
+mm/m/it/10.95 :\OT1/cmr/m/n/10.95 9575638\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.9
+5 9606\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 9473\OML/cmm/m/it/10.95 :\OT1/cmr
+/m/n/10.95 6453\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6447\OML/cmm/m/it/10.95 
+:\OT1/cmr/m/n/10.95 2638\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 9606\OML/cmm/m/
+it/10.95 :\OT1/cmr/m/n/10.95 9830\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6606\O
+ML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 9606\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.
+95 9511\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1575]\OML/cmm/m/it/10.95 endobj\
+OT1/cmr/m/n/10.95 130\OML/cmm/m/it/10.95 obj\OT1/cmr/m/n/10.95 [500]\OML/cmm/m/
+it/10.95 endobj\OT1/cmr/m/n/10.95 140\OML/cmm/m/it/10.95 obj\OT1/cmr/m/n/10.95 
+[733\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 3733\OML/cmm/m/it/10.95 :\OT1/cmr/m
+/n/10.95 3702\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8794\OML/cmm/m/it/10.95 :\
+OT1/cmr/m/n/10.95 4641\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7611\OML/cmm/m/it
+/10.95 :\OT1/cmr/m/n/10.95 1733\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 3794\OML
+/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4330\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95
+ 6519\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4763\OML/cmm/m/it/10.95 :\OT1/cmr/
+m/n/10.95 9580\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6977\OML/cmm/m/it/10.95 :
+\OT1/cmr/m/n/10.95 8794\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4794\OML/cmm/m/i
+t/10.95 :\OT1/cmr/m/n/10.95 4702\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8794\OM
+L/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4702\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.9
+5 8611\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1733\OML/cmm/m/it/10.95 :\OT1/cmr
+/m/n/10.95 3763\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 9733\OML/cmm/m/it/10.95 
+:\OT1/cmr/m/n/10.95 31038\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 9733\OML/cmm/m
+/it/10.95 :\OT1/cmr/m/n/10.95 3733\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 3672\
+OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 2343\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10
+.95 1558\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 3343\OML/cmm/m/it/10.95 :\OT1/c
+mr/m/n/10.95 1550305\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6305\OML/cmm/m/it/1
+0.95 :\OT1/cmr/m/n/10.95 6525561\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1488\OM
+L/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 9561\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.9
+5 1511\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1336\OML/cmm/m/it/10.95 :\OT1/cmr
+/m/n/10.95 1550561\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1255\OML/cmm/m/it/10.
+95 :\OT1/cmr/m/n/10.95 6286\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1530\OML/cmm
+/m/it/10.95 :\OT1/cmr/m/n/10.95 6255\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 686
+6\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7561\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/
+10.95 1550561\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1561\OML/cmm/m/it/10.95 :\
+OT1/cmr/m/n/10.95 1372\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 2421\OML/cmm/m/it
+/10.95 :\OT1/cmr/m/n/10.95 7404\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 2561\OML
+/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1500744\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10
+.95 4500500]\OML/cmm/m/it/10.95 endobj\OT1/cmr/m/n/10.95 150\OML/cmm/m/it/10.95
+ obj\OT1/cmr/m/n/10.95 [555\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6555\OML/cmm
+/m/it/10.95 :\OT1/cmr/m/n/10.95 6833\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 383
+3\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 3277\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/
+10.95 8305\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6500500500500500750444\OML/cm
+m/m/it/10.95 :\OT1/cmr/m/n/10.95 4500722\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95
+ 2777\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8500902\OML/cmm/m/it/10.95 :\OT1/c
+mr/m/n/10.95 81013\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 9777\OML/cmm/m/it/10.
+95 :\OT1/cmr/m/n/10.95 8277\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8277\OML/cmm
+/m/it/10.95 :\OT1/cmr/m/n/10.95 8500833\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 
+3500833\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 3777\OML/cmm/m/it/10.95 :\OT1/cm
+r/m/n/10.95 8277\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8388\OML/cmm/m/it/10.95
+ :\OT1/cmr/m/n/10.95 9388\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 9500777\OML/cm
+m/m/it/10.95 :\OT1/cmr/m/n/10.95 8277\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 83
+33\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 3277\OML/cmm/m/it/10.95 :\OT1/cmr/m/n
+/10.95 8500500500500500500500500500500500277\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/1
+0.95 8277\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8277\OML/cmm/m/it/10.95 :\OT1/
+cmr/m/n/10.95 8777\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8472\OML/cmm/m/it/10.
+95 :\OT1/cmr/m/n/10.95 2472\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 2777\OML/cmm
+/m/it/10.95 :\OT1/cmr/m/n/10.95 8750708\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 
+3722\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 2763\OML/cmm/m/it/10.95 :\OT1/cmr/m
+/n/10.95 9680\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6652\OML/cmm/m/it/10.95 :\
+OT1/cmr/m/n/10.95 8784\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7750361\OML/cmm/m
+/it/10.95 :\OT1/cmr/m/n/10.95 1513\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 9777\
+OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8625916\OML/cmm/m/it/10.95 :\OT1/cmr/m/n
+/10.95 7750777\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8680\OML/cmm/m/it/10.95 :
+\OT1/cmr/m/n/10.95 6777\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8736\OML/cmm/m/i
+t/10.95 :\OT1/cmr/m/n/10.95 1555\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6722\OM
+L/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 27507501027\OML/cmm/m/it/10.95 :\OT1/cmr/m
+/n/10.95 8750750611\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1277\OML/cmm/m/it/10
+.95 :\OT1/cmr/m/n/10.95 8500277\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8500277\
+OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8277\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10
+.95 8500555\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6444\OML/cmm/m/it/10.95 :\OT
+1/cmr/m/n/10.95 4555\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6444\OML/cmm/m/it/1
+0.95 :\OT1/cmr/m/n/10.95 4305\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6500555\OM
+L/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6277\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.9
+5 8305\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6527\OML/cmm/m/it/10.95 :\OT1/cmr
+/m/n/10.95 8277\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8833\OML/cmm/m/it/10.95 
+:\OT1/cmr/m/n/10.95 3555\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6500555\OML/cmm
+/m/it/10.95 :\OT1/cmr/m/n/10.95 6527\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 839
+1\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7394\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/
+10.95 4388\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 9555\OML/cmm/m/it/10.95 :\OT1
+/cmr/m/n/10.95 6527\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8722\OML/cmm/m/it/10
+.95 :\OT1/cmr/m/n/10.95 2527\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8527\OML/cm
+m/m/it/10.95 :\OT1/cmr/m/n/10.95 8]\OML/cmm/m/it/10.95 endobj\OT1/cmr/m/n/10.95
+ 160\OML/cmm/m/it/10.95 obj\OT1/cmr/m/n/10.95 [799\OML/cmm/m/it/10.95 :\OT1/cmr
+/m/n/10.95 8812\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 5862\OML/cmm/m/it/10.95 
+:\OT1/cmr/m/n/10.95 3738\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4707\OML/cmm/m/
+it/10.95 :\OT1/cmr/m/n/10.95 2884\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 3879\O
+ML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6419581880\OML/cmm/m/it/10.95 :\OT1/cmr/m
+/n/10.95 8675\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 91067\OML/cmm/m/it/10.95 :
+\OT1/cmr/m/n/10.95 1879\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 6844\OML/cmm/m/i
+t/10.95 :\OT1/cmr/m/n/10.95 9768\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 5844\OM
+L/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 9839\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.9
+5 1625782\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4864\OML/cmm/m/it/10.95 :\OT1/
+cmr/m/n/10.95 6849\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 51162849\OML/cmm/m/it
+/10.95 :\OT1/cmr/m/n/10.95 5849\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 5687\OML
+/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 5312\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95
+ 5581312\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 5562\OML/cmm/m/it/10.95 :\OT1/c
+mr/m/n/10.95 5312\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 5312\OML/cmm/m/it/10.9
+5 :\OT1/cmr/m/n/10.95 5546\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 9625500625513
+\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 3343\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/1
+0.95 7562\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 5625312\OML/cmm/m/it/10.95 :\O
+T1/cmr/m/n/10.95 5343\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7593\OML/cmm/m/it/
+10.95 :\OT1/cmr/m/n/10.95 7312\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 5937\OML/
+cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 5625562\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.
+95 5625593\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 7459\OML/cmm/m/it/10.95 :\OT1
+/cmr/m/n/10.95 5443\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 8437\OML/cmm/m/it/10
+.95 :\OT1/cmr/m/n/10.95 5]\OML/cmm/m/it/10.95 endobj\OT1/cmr/m/n/10.95 170\OML/
+cmm/m/it/10.95 obj << 
+ []
+
+
+Overfull \hbox (12.84647pt too wide) in paragraph at lines 16--57
+\OML/cmm/m/it/10.95 =Length\OT1/cmr/m/n/10.95 11232\OML/cmm/m/it/10.95 =Length\
+OT1/cmr/m/n/10.95 27156\OML/cmm/m/it/10.95 =Length\OT1/cmr/m/n/10.95 30\OML/cmm
+/m/it/10.95 =Length\OT1/cmr/m/n/10.95 7898\OML/cmm/m/it/10.95 =Filter=FlateDeco
+de >> 
+ []
+
+
+Overfull \hbox (11.5226pt too wide) in paragraph at lines 16--57
+\OML/cmm/m/it/10.95 streamxeXTQJ:fahDZ \OT1/cmr/m/n/10.95 :$ERw$[]][]$  
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 ì^^?^^E‰^^@äœ p;0È^^Y ^^ABØB9À G€.^^Ll
+                                             ^^GExs^^Cä^^\^^]^^AÏÿZá^^Fx^^Nu...
+
+? 
+! Text line contains an invalid character.
+l.57 ì^^?^^E‰^^@äœ p;0È^^Y ^^ABØB9À G€.^^Ll^^G
+                                                Exs^^Cä^^\^^]^^AÏÿZá^^Fx^^Nu...
+
+? 
+! Text line contains an invalid character.
+l.57 ...‰^^@äœ p;0È^^Y ^^ABØB9À G€.^^Ll^^GExs^^C
+                                                  ä^^\^^]^^AÏÿZá^^Fx^^NuƒÂ= ...
+
+? 
+Missing character: There is no ä in font cmr10!
+! Text line contains an invalid character.
+l.57 ...äœ p;0È^^Y ^^ABØB9À G€.^^Ll^^GExs^^Cä^^\
+                                                  ^^]^^AÏÿZá^^Fx^^NuƒÂ= ^^Pn...
+
+? 
+! Text line contains an invalid character.
+l.57 ...p;0È^^Y ^^ABØB9À G€.^^Ll^^GExs^^Cä^^\^^]
+                                                  ^^AÏÿZá^^Fx^^NuƒÂ= ^^Pnl>>...
+
+? 
+! Text line contains an invalid character.
+l.57 ...È^^Y ^^ABØB9À G€.^^Ll^^GExs^^Cä^^\^^]^^A
+                                                  ÏÿZá^^Fx^^NuƒÂ= ^^Pnl>>^^@...
+
+? 
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no á in font cmr10!
+! Text line contains an invalid character.
+l.57 ...ABØB9À G€.^^Ll^^GExs^^Cä^^\^^]^^AÏÿZá^^F
+                                                  x^^NuƒÂ= ^^Pnl>>^^@Ä^^NŒ^^...
+
+? 
+! Text line contains an invalid character.
+l.57 ...9À G€.^^Ll^^GExs^^Cä^^\^^]^^AÏÿZá^^Fx^^N
+                                                  uƒÂ= ^^Pnl>>^^@Ä^^NŒ^^@XAm...
+
+? 
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no   in font cmr10!
+! Text line contains an invalid character.
+l.57 ...^^Ll^^GExs^^Cä^^\^^]^^AÏÿZá^^Fx^^NuƒÂ= ^^P
+                                                  nl>>^^@Ä^^NŒ^^@XAmìœ±yşrRq...
+
+? 
+! Text line contains an invalid character.
+l.57 ...Exs^^Cä^^\^^]^^AÏÿZá^^Fx^^NuƒÂ= ^^Pnl>>^^@
+                                                  Ä^^NŒ^^@XAmìœ±yşrRq¶†^^ADş...
+
+? 
+Missing character: There is no Ä in font cmr10!
+! Text line contains an invalid character.
+l.57 ...^Cä^^\^^]^^AÏÿZá^^Fx^^NuƒÂ= ^^Pnl>>^^@Ä^^N
+                                                  Œ^^@XAmìœ±yşrRq¶†^^ADş5^^L...
+
+? 
+Missing character: There is no Œ in font cmr10!
+! Text line contains an invalid character.
+l.57 ...^\^^]^^AÏÿZá^^Fx^^NuƒÂ= ^^Pnl>>^^@Ä^^NŒ^^@
+                                                  XAmìœ±yşrRq¶†^^ADş5^^Lqwù÷...
+
+? 
+Missing character: There is no ì in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no † in font cmr10!
+! Text line contains an invalid character.
+l.57 ...^^NuƒÂ= ^^Pnl>>^^@Ä^^NŒ^^@XAmìœ±yşrRq¶†^^A
+                                                  Dş5^^Lqwù÷”^^G^^Tî†”^^B°ı­...
+
+? 
+Missing character: There is no ş in font cmr10!
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 ... ^^Pnl>>^^@Ä^^NŒ^^@XAmìœ±yşrRq¶†^^ADş5^^Lq
+                                                  wù÷”^^G^^Tî†”^^B°ı­É^^N@JB...
+
+? 
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no ” in font cmr10!
+! Text line contains an invalid character.
+l.57 ...>^^@Ä^^NŒ^^@XAmìœ±yşrRq¶†^^ADş5^^Lqwù÷”^^G
+                                                  ^^Tî†”^^B°ı­É^^N@JB`ÎŞ^^@...
+
+? 
+! Text line contains an invalid character.
+l.57 ...@Ä^^NŒ^^@XAmìœ±yşrRq¶†^^ADş5^^Lqwù÷”^^G^^T
+                                                  î†”^^B°ı­É^^N@JB`ÎŞ^^@^^H...
+
+? 
+Missing character: There is no î in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ” in font cmr10!
+! Text line contains an invalid character.
+l.57 ...^^@XAmìœ±yşrRq¶†^^ADş5^^Lqwù÷”^^G^^Tî†”^^B
+                                                  °ı­É^^N@JB`ÎŞ^^@^^HÔ^^Z›G...
+
+? 
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no É in font cmr10!
+! Text line contains an invalid character.
+l.57 ...œ±yşrRq¶†^^ADş5^^Lqwù÷”^^G^^Tî†”^^B°ı­É^^N
+                                                  @JB`ÎŞ^^@^^HÔ^^Z›G^^S†¬^^...
+
+? 
+Missing character: There is no Î in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ş in font cmr10!
+! Text line contains an invalid character.
+l.57 ...^ADş5^^Lqwù÷”^^G^^Tî†”^^B°ı­É^^N@JB`ÎŞ^^@
+                                                  ^^HÔ^^Z›G^^S†¬^^FEºü^^?hıg...
+
+? 
+! Text line contains an invalid character.
+l.57 ...ş5^^Lqwù÷”^^G^^Tî†”^^B°ı­É^^N@JB`ÎŞ^^@^^H
+                                                  Ô^^Z›G^^S†¬^^FEºü^^?hıgr »...
+
+? 
+Missing character: There is no Ô in font cmr10!
+! Text line contains an invalid character.
+l.57 ...Lqwù÷”^^G^^Tî†”^^B°ı­É^^N@JB`ÎŞ^^@^^HÔ^^Z
+                                                  ›G^^S†¬^^FEºü^^?hıgr »££&È...
+
+? 
+Missing character: There is no › in font cmr10!
+! Text line contains an invalid character.
+l.57 ...”^^G^^Tî†”^^B°ı­É^^N@JB`ÎŞ^^@^^HÔ^^Z›G^^S
+                                                  †¬^^FEºü^^?hıgr »££&Èé¯ô^^...
+
+? 
+Missing character: There is no † in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+! Text line contains an invalid character.
+l.57 ...^Tî†”^^B°ı­É^^N@JB`ÎŞ^^@^^HÔ^^Z›G^^S†¬^^F
+                                                  Eºü^^?hıgr »££&Èé¯ô^^?wê¿æ...
+
+? 
+Missing character: There is no º in font cmr10!
+Missing character: There is no ü in font cmr10!
+! Text line contains an invalid character.
+l.57 ...^B°ı­É^^N@JB`ÎŞ^^@^^HÔ^^Z›G^^S†¬^^FEºü^^?
+                                                  hıgr »££&Èé¯ô^^?wê¿æANvŞÿ...
+
+? 
+Missing character: There is no ı in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no £ in font cmr10!
+! Misplaced alignment tab character &.
+l.57 ...@JB`ÎŞ^^@^^HÔ^^Z›G^^S†¬^^FEºü^^?hıgr »££&
+                                                  Èé¯ô^^?wê¿æANvŞÿ^^[^^Asrq...
+
+? 
+Missing character: There is no È in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no ô in font cmr10!
+! Text line contains an invalid character.
+l.57 ...^^@^^HÔ^^Z›G^^S†¬^^FEºü^^?hıgr »££&Èé¯ô^^?
+                                                  wê¿æANvŞÿ^^[^^AsrqG@á^^@
+? 
+Missing character: There is no ê in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+! Text line contains an invalid character.
+l.57 ...^S†¬^^FEºü^^?hıgr »££&Èé¯ô^^?wê¿æANvŞÿ^^[
+                                                  ^^AsrqG@á^^@
+? 
+! Text line contains an invalid character.
+l.57 ...¬^^FEºü^^?hıgr »££&Èé¯ô^^?wê¿æANvŞÿ^^[^^A
+                                                  srqG@á^^@
+? 
+Missing character: There is no á in font cmr10!
+! Text line contains an invalid character.
+l.57 ...?hıgr »££&Èé¯ô^^?wê¿æANvŞÿ^^[^^AsrqG@á^^@
+                                                  
+? 
+! Text line contains an invalid character.
+l.58 ^^X
+        ^^D
+? 
+! Text line contains an invalid character.
+l.58 ^^X^^D
+           
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 w
+      şÏPCè¿ääaÿUF^^E^^Ar´^^CË9Û8B^^A¼ÿ^^Z²s^^CÚyA!Úv^^H°-À^^Zäè^^Fı{^^\ê^^...
+
+? 
+Missing character: There is no ş in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+! Text line contains an invalid character.
+l.59 wşÏPCè¿ääaÿUF^^E
+                      ^^Ar´^^CË9Û8B^^A¼ÿ^^Z²s^^CÚyA!Úv^^H°-À^^Zäè^^Fı{^^\ê^^...
+
+? 
+! Text line contains an invalid character.
+l.59 wşÏPCè¿ääaÿUF^^E^^A
+                         r´^^CË9Û8B^^A¼ÿ^^Z²s^^CÚyA!Úv^^H°-À^^Zäè^^Fı{^^\ê^^...
+
+? 
+Missing character: There is no ´ in font cmr10!
+! Text line contains an invalid character.
+l.59 wşÏPCè¿ääaÿUF^^E^^Ar´^^C
+                              Ë9Û8B^^A¼ÿ^^Z²s^^CÚyA!Úv^^H°-À^^Zäè^^Fı{^^\ê^^...
+
+? 
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no Û in font cmr10!
+! Text line contains an invalid character.
+l.59 wşÏPCè¿ääaÿUF^^E^^Ar´^^CË9Û8B^^A
+                                      ¼ÿ^^Z²s^^CÚyA!Úv^^H°-À^^Zäè^^Fı{^^\ê^^...
+
+? 
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+! Text line contains an invalid character.
+l.59 wşÏPCè¿ääaÿUF^^E^^Ar´^^CË9Û8B^^A¼ÿ^^Z
+                                           ²s^^CÚyA!Úv^^H°-À^^Zäè^^Fı{^^\ê^^...
+
+? 
+Missing character: There is no ² in font cmr10!
+! Text line contains an invalid character.
+l.59 wşÏPCè¿ääaÿUF^^E^^Ar´^^CË9Û8B^^A¼ÿ^^Z²s^^C
+                                                ÚyA!Úv^^H°-À^^Zäè^^Fı{^^\ê^^...
+
+? 
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no Ú in font cmr10!
+! Text line contains an invalid character.
+l.59 ...ÿUF^^E^^Ar´^^CË9Û8B^^A¼ÿ^^Z²s^^CÚyA!Úv^^H
+                                                  °-À^^Zäè^^Fı{^^\ê^^LùO^^Ed...
+
+? 
+Missing character: There is no ° in font cmr10!
+Missing character: There is no À in font cmr10!
+! Text line contains an invalid character.
+l.59 ...E^^Ar´^^CË9Û8B^^A¼ÿ^^Z²s^^CÚyA!Úv^^H°-À^^Z
+                                                  äè^^Fı{^^\ê^^LùO^^Edãş^^Và...
+
+? 
+Missing character: There is no ä in font cmr10!
+Missing character: There is no è in font cmr10!
+! Text line contains an invalid character.
+l.59 ...´^^CË9Û8B^^A¼ÿ^^Z²s^^CÚyA!Úv^^H°-À^^Zäè^^F
+                                                  ı{^^\ê^^LùO^^Edãş^^VàÑÓĞÕT...
+
+? 
+Missing character: There is no ı in font cmr10!
+! Text line contains an invalid character.
+l.59 ...9Û8B^^A¼ÿ^^Z²s^^CÚyA!Úv^^H°-À^^Zäè^^Fı{^^\
+                                                  ê^^LùO^^Edãş^^VàÑÓĞÕTRçüß=...
+
+? 
+Missing character: There is no ê in font cmr10!
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 ...^A¼ÿ^^Z²s^^CÚyA!Úv^^H°-À^^Zäè^^Fı{^^\ê^^Lù
+                                                  O^^Edãş^^VàÑÓĞÕTRçüß=ı{R^^...
+
+? 
+Missing character: There is no ù in font cmr10!
+! Text line contains an invalid character.
+l.59 ...^^Z²s^^CÚyA!Úv^^H°-À^^Zäè^^Fı{^^\ê^^LùO^^E
+                                                  dãş^^VàÑÓĞÕTRçüß=ı{R^^[dçŒ...
+
+? 
+Missing character: There is no ã in font cmr10!
+Missing character: There is no ş in font cmr10!
+! Text line contains an invalid character.
+l.59 ...^CÚyA!Úv^^H°-À^^Zäè^^Fı{^^\ê^^LùO^^Edãş^^V
+                                                  àÑÓĞÕTRçüß=ı{R^^[dçŒĞóvù'í...
+
+? 
+Missing character: There is no à in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no ı in font cmr10!
+! Text line contains an invalid character.
+l.59 ...äè^^Fı{^^\ê^^LùO^^Edãş^^VàÑÓĞÕTRçüß=ı{R^^[
+                                                  dçŒĞóvù'í_Ñ^^?3ßoFv^^Gnç^^...
+
+? 
+Missing character: There is no ç in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no í in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.59 ...ê^^LùO^^Edãş^^VàÑÓĞÕTRçüß=ı{R^^[dçŒĞóvù'í_
+                                                  Ñ^^?3ßoFv^^Gnç^^E0áE¶—^^O^...
+
+? 
+! Text line contains an invalid character.
+l.59 ...ùO^^Edãş^^VàÑÓĞÕTRçüß=ı{R^^[dçŒĞóvù'í_Ñ^^?
+                                                  3ßoFv^^Gnç^^E0áE¶—^^O^^Yˆ¼...
+
+? 
+! Text line contains an invalid character.
+l.59 ...^^VàÑÓĞÕTRçüß=ı{R^^[dçŒĞóvù'í_Ñ^^?3ßoFv^^G
+                                                  nç^^E0áE¶—^^O^^Yˆ¼şıdö^^_Å...
+
+? 
+! Text line contains an invalid character.
+l.59 ...ÓĞÕTRçüß=ı{R^^[dçŒĞóvù'í_Ñ^^?3ßoFv^^Gnç^^E
+                                                  0áE¶—^^O^^Yˆ¼şıdö^^_Å”œÁ0ˆ³
+? 
+! Text line contains an invalid character.
+l.59 ...=ı{R^^[dçŒĞóvù'í_Ñ^^?3ßoFv^^Gnç^^E0áE¶—^^O
+                                                  ^^Yˆ¼şıdö^^_Å”œÁ0ˆ³
+? 
+! Text line contains an invalid character.
+l.59 ...R^^[dçŒĞóvù'í_Ñ^^?3ßoFv^^Gnç^^E0áE¶—^^O^^Y
+                                                  ˆ¼şıdö^^_Å”œÁ0ˆ³
+? 
+! Text line contains an invalid character.
+l.59 ...vù'í_Ñ^^?3ßoFv^^Gnç^^E0áE¶—^^O^^Yˆ¼şıdö^^_
+                                                  Å”œÁ0ˆ³
+? 
+! Text line contains an invalid character.
+l.60 €_H^^X
+           ^^@‚ÃAŞØÈÓƒ$!€/^^_ÀÎ^^Y^^Bõ^^B@½Æ<ÜÎ0^^Dr	^^@Ù’—^^@k^^X^^\û¯
+? 
+! Text line contains an invalid character.
+l.60 €_H^^X^^@
+              ‚ÃAŞØÈÓƒ$!€/^^_ÀÎ^^Y^^Bõ^^B@½Æ<ÜÎ0^^Dr	^^@Ù’—^^@k^^X^^\û¯
+? 
+Missing character: There is no Ñ in font cmr8!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no € in font cmr10!
+! Text line contains an invalid character.
+l.60 €_H^^X^^@‚ÃAŞØÈÓƒ$!€/^^_
+                             ÀÎ^^Y^^Bõ^^B@½Æ<ÜÎ0^^Dr	^^@Ù’—^^@k^^X^^\û¯
+? 
+Missing character: There is no À in font cmr10!
+Missing character: There is no Î in font cmr10!
+! Text line contains an invalid character.
+l.60 €_H^^X^^@‚ÃAŞØÈÓƒ$!€/^^_ÀÎ^^Y
+                                  ^^Bõ^^B@½Æ<ÜÎ0^^Dr	^^@Ù’—^^@k^^X^^\û¯
+? 
+! Text line contains an invalid character.
+l.60 €_H^^X^^@‚ÃAŞØÈÓƒ$!€/^^_ÀÎ^^Y^^B
+                                     õ^^B@½Æ<ÜÎ0^^Dr	^^@Ù’—^^@k^^X^^\û¯
+? 
+Missing character: There is no õ in font cmr10!
+! Text line contains an invalid character.
+l.60 €_H^^X^^@‚ÃAŞØÈÓƒ$!€/^^_ÀÎ^^Y^^Bõ^^B
+                                         @½Æ<ÜÎ0^^Dr	^^@Ù’—^^@k^^X^^\û¯
+? 
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no Î in font cmr10!
+! Text line contains an invalid character.
+l.60 ...X^^@‚ÃAŞØÈÓƒ$!€/^^_ÀÎ^^Y^^Bõ^^B@½Æ<ÜÎ0^^D
+                                                  r	^^@Ù’—^^@k^^X^^\û¯
+? 
+! Text line contains an invalid character.
+l.60 ...ÃAŞØÈÓƒ$!€/^^_ÀÎ^^Y^^Bõ^^B@½Æ<ÜÎ0^^Dr	^^@
+                                                  Ù’—^^@k^^X^^\û¯
+? 
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no — in font cmr10!
+! Text line contains an invalid character.
+l.60 ...ƒ$!€/^^_ÀÎ^^Y^^Bõ^^B@½Æ<ÜÎ0^^Dr	^^@Ù’—^^@
+                                                  k^^X^^\û¯
+? 
+! Text line contains an invalid character.
+l.60 .../^^_ÀÎ^^Y^^Bõ^^B@½Æ<ÜÎ0^^Dr	^^@Ù’—^^@k^^X
+                                                  ^^\û¯
+? 
+! Text line contains an invalid character.
+l.60 ..._ÀÎ^^Y^^Bõ^^B@½Æ<ÜÎ0^^Dr	^^@Ù’—^^@k^^X^^\
+                                                  û¯
+? 
+Missing character: There is no û in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+! Text line contains an invalid character.
+l.61 ^^U
+        ^^V^^FğÈÿ5ô/^^R^^Ağ(üC"|^^@g¿I^^@À£ò›ëÔ^^?“^^X€Gë^^_^^Rå^^Eğhÿ&~^^...
+
+? 
+! Text line contains an invalid character.
+l.61 ^^U^^V
+           ^^FğÈÿ5ô/^^R^^Ağ(üC"|^^@g¿I^^@À£ò›ëÔ^^?“^^X€Gë^^_^^Rå^^Eğhÿ&~^^...
+
+? 
+! Text line contains an invalid character.
+l.61 ^^U^^V^^F
+              ğÈÿ5ô/^^R^^Ağ(üC"|^^@g¿I^^@À£ò›ëÔ^^?“^^X€Gë^^_^^Rå^^Eğhÿ&~^^...
+
+? 
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ô in font cmr10!
+! Text line contains an invalid character.
+l.61 ^^U^^V^^FğÈÿ5ô/^^R
+                       ^^Ağ(üC"|^^@g¿I^^@À£ò›ëÔ^^?“^^X€Gë^^_^^Rå^^Eğhÿ&~^^...
+
+? 
+! Text line contains an invalid character.
+l.61 ^^U^^V^^FğÈÿ5ô/^^R^^A
+                          ğ(üC"|^^@g¿I^^@À£ò›ëÔ^^?“^^X€Gë^^_^^Rå^^Eğhÿ&~^^...
+
+? 
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no ü in font cmr10!
+! Text line contains an invalid character.
+l.61 ^^U^^V^^FğÈÿ5ô/^^R^^Ağ(üC"|^^@
+                                   g¿I^^@À£ò›ëÔ^^?“^^X€Gë^^_^^Rå^^Eğhÿ&~^^...
+
+? 
+Missing character: There is no  in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+! Text line contains an invalid character.
+l.61 ^^U^^V^^FğÈÿ5ô/^^R^^Ağ(üC"|^^@g¿I^^@
+                                          À£ò›ëÔ^^?“^^X€Gë^^_^^Rå^^Eğhÿ&~^^...
+
+? 
+Missing character: There is no À in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no Ô in font cmr10!
+! Text line contains an invalid character.
+l.61 ...V^^FğÈÿ5ô/^^R^^Ağ(üC"|^^@g¿I^^@À£ò›ëÔ^^?
+                                                  “^^X€Gë^^_^^Rå^^Eğhÿ&~^^@Ï...
+
+? 
+Missing character: There is no “ in font cmr10!
+! Text line contains an invalid character.
+l.61 ...ğÈÿ5ô/^^R^^Ağ(üC"|^^@g¿I^^@À£ò›ëÔ^^?“^^X
+                                                  €Gë^^_^^Rå^^Eğhÿ&~^^@Ïóß„Ì...
+
+? 
+Missing character: There is no € in font cmr10!
+Missing character: There is no ë in font cmr10!
+! Text line contains an invalid character.
+l.61 ...^^R^^Ağ(üC"|^^@g¿I^^@À£ò›ëÔ^^?“^^X€Gë^^_
+                                                  ^^Rå^^Eğhÿ&~^^@Ïóß„Ì¢û›^^D...
+
+? 
+! Text line contains an invalid character.
+l.61 ...^^Ağ(üC"|^^@g¿I^^@À£ò›ëÔ^^?“^^X€Gë^^_^^R
+                                                  å^^Eğhÿ&~^^@Ïóß„Ì¢û›^^D‘=ú...
+
+? 
+Missing character: There is no å in font cmr10!
+! Text line contains an invalid character.
+l.61 ...(üC"|^^@g¿I^^@À£ò›ëÔ^^?“^^X€Gë^^_^^Rå^^E
+                                                  ğhÿ&~^^@Ïóß„Ì¢û›^^D‘=úMB^^...
+
+? 
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+! Misplaced alignment tab character &.
+l.61 ...|^^@g¿I^^@À£ò›ëÔ^^?“^^X€Gë^^_^^Rå^^Eğhÿ&
+                                                  ~^^@Ïóß„Ì¢û›^^D‘=úMB^^@^^^...
+
+? 
+! Text line contains an invalid character.
+l.61 ...g¿I^^@À£ò›ëÔ^^?“^^X€Gë^^_^^Rå^^Eğhÿ&~^^@
+                                                  Ïóß„Ì¢û›^^D‘=úMB^^@^^^ıß„t...
+
+? 
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no › in font cmr10!
+! Text line contains an invalid character.
+l.61 ...ëÔ^^?“^^X€Gë^^_^^Rå^^Eğhÿ&~^^@Ïóß„Ì¢û›^^D
+                                                  ‘=úMB^^@^^^ıß„t1ü‡g‡^^Gô›...
+
+? 
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no ú in font cmr10!
+! Text line contains an invalid character.
+l.61 ...^X€Gë^^_^^Rå^^Eğhÿ&~^^@Ïóß„Ì¢û›^^D‘=úMB^^@
+                                                  ^^^ıß„t1ü‡g‡^^Gô›õÀÿ(’...
+
+? 
+! Text line contains an invalid character.
+l.61 ...Gë^^_^^Rå^^Eğhÿ&~^^@Ïóß„Ì¢û›^^D‘=úMB^^@^^^
+                                                  ıß„t1ü‡g‡^^Gô›õÀÿ(’`È...
+
+? 
+Missing character: There is no ı in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+! Text line contains an invalid character.
+l.61 ...hÿ&~^^@Ïóß„Ì¢û›^^D‘=úMB^^@^^^ıß„t1ü‡g‡^^G
+                                                  ô›õÀÿ(’`Èóøï^^Q>^¤^^Bä...
+
+? 
+Missing character: There is no ô in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ï in font cmr10!
+! Text line contains an invalid character.
+l.61 ...=úMB^^@^^^ıß„t1ü‡g‡^^Gô›õÀÿ(’`Èóøï^^Q
+                                                  >^¤^^Bä^^OD¾	ô7ò#%Û^^Fr³ı...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.61 ...MB^^@^^^ıß„t1ü‡g‡^^Gô›õÀÿ(’`Èóøï^^Q>^
+                                                  ¤^^Bä^^OD¾	ô7ò#%Û^^Fr³ı#^...
+
+? 
+! Text line contains an invalid character.
+l.61 ...@^^^ıß„t1ü‡g‡^^Gô›õÀÿ(’`Èóøï^^Q>^¤^^B
+                                                  ä^^OD¾	ô7ò#%Û^^Fr³ı#^^D©i...
+
+? 
+! Text line contains an invalid character.
+l.61 ...ıß„t1ü‡g‡^^Gô›õÀÿ(’`Èóøï^^Q>^¤^^Bä^^O
+                                                  D¾	ô7ò#%Û^^Fr³ı#^^D©iı^^G...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.61 ...g‡^^Gô›õÀÿ(’`Èóøï^^Q>^¤^^Bä^^OD¾	ô7ò#
+                                                  %Û^^Fr³ı#^^D©iı^^G"Clş@¤è...
+
+? 
+! Text line contains an invalid character.
+l.62 ‹^^@
+         ısÂT×âpÁ×K„IoĞ–&‚ıí_?jâ\8†µ¹^^S_å=ÊI¼³@¹^^DcDE¹=	ÿŠÀÁ›ÿA%^^Sô²y¹N„...
+
+? 
+! Misplaced alignment tab character &.
+l.62 ‹^^@ısÂT×âpÁ×K„IoĞ–&
+                          ‚ıí_?jâ\8†µ¹^^S_å=ÊI¼³@¹^^DcDE¹=	ÿŠÀÁ›ÿA%^^Sô²y¹N„...
+
+? 
+! Undefined control sequence.
+l.62 ‹^^@ısÂT×âpÁ×K„IoĞ–&‚ıí_?jâ\8
+                                   †µ¹^^S_å=ÊI¼³@¹^^DcDE¹=	ÿŠÀÁ›ÿA%^^Sô²y¹N„...
+
+? 
+! Text line contains an invalid character.
+l.62 ‹^^@ısÂT×âpÁ×K„IoĞ–&‚ıí_?jâ\8†µ¹^^S
+                                         _å=ÊI¼³@¹^^DcDE¹=	ÿŠÀÁ›ÿA%^^Sô²y¹N„...
+
+? 
+! Text line contains an invalid character.
+l.62 ...ÂT×âpÁ×K„IoĞ–&‚ıí_?jâ\8†µ¹^^S_å=ÊI¼³@¹^^D
+                                                  cDE¹=	ÿŠÀÁ›ÿA%^^Sô²y¹N„KL¨...
+
+? 
+! Text line contains an invalid character.
+l.65 ^Íç¦Œë-u´WëŠKÃ¥T’£]  øY©AƒËÏ^^]
+                                     w£^^T\UëioO 3Ú1aĞ^^B|ÿ¤á¡˜ôš^^]^^@úD^...
+
+? 
+! Text line contains an invalid character.
+l.65 ^Íç¦Œë-u´WëŠKÃ¥T’£]  øY©AƒËÏ^^]w£^^T
+                                          \UëioO 3Ú1aĞ^^B|ÿ¤á¡˜ôš^^]^^@úD^...
+
+? 
+! Undefined control sequence.
+l.65 ^Íç¦Œë-u´WëŠKÃ¥T’£]  øY©AƒËÏ^^]w£^^T\U
+                                            ëioO 3Ú1aĞ^^B|ÿ¤á¡˜ôš^^]^^@úD^...
+
+? 
+! Text line contains an invalid character.
+l.65 ...ëŠKÃ¥T’£]  øY©AƒËÏ^^]w£^^T\UëioO 3Ú1aĞ^^B
+                                                  |ÿ¤á¡˜ôš^^]^^@úD^^^YÙxÂıs...
+
+? 
+! Text line contains an invalid character.
+l.65 ...Y©AƒËÏ^^]w£^^T\UëioO 3Ú1aĞ^^B|ÿ¤á¡˜ôš^^]
+                                                  ^^@úD^^^YÙxÂısÕr¸U5ªN?~Ëd\...
+
+? 
+! Text line contains an invalid character.
+l.65 ...ƒËÏ^^]w£^^T\UëioO 3Ú1aĞ^^B|ÿ¤á¡˜ôš^^]^^@
+                                                  úD^^^YÙxÂısÕr¸U5ªN?~Ëd\İ¸ş...
+
+? 
+! Text line contains an invalid character.
+l.65 ...]w£^^T\UëioO 3Ú1aĞ^^B|ÿ¤á¡˜ôš^^]^^@úD^^^
+                                                  YÙxÂısÕr¸U5ªN?~Ëd\İ¸şÔºİù¶...
+
+? 
+! Undefined control sequence.
+l.65 ...^^B|ÿ¤á¡˜ôš^^]^^@úD^^^YÙxÂısÕr¸U5ªN?~Ëd\İ
+                                                  ¸şÔºİù¶ğĞSc2ŒÕïƒ2ßdòF¦à^^C~
+
+? 
+! Text line contains an invalid character.
+l.65 ...ÂısÕr¸U5ªN?~Ëd\İ¸şÔºİù¶ğĞSc2ŒÕïƒ2ßdòF¦à^^C
+                                                  ~
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.66 
+     
+? 
+! Interruption.
+<to be read again> 
+                   \par 
+l.66 
+     
+? 
+Missing character: There is no ¤ in font cmr8!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no å in font cmr8!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no  in font cmr8!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no  in font cmr10!
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 °
+      &›—•^^Gïß„ËÇ`ŞUÿD¡*±õ)wZØàwÕôÎ¼R™}ÿí”;Š
+? 
+Missing character: There is no ° in font cmr10!
+Missing character: There is no  in font cmr10!
+! Misplaced alignment tab character &.
+l.67 °&
+        ›—•^^Gïß„ËÇ`ŞUÿD¡*±õ)wZØàwÕôÎ¼R™}ÿí”;Š
+? 
+Missing character: There is no › in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no • in font cmr10!
+! Text line contains an invalid character.
+l.67 °&›—•^^G
+              ïß„ËÇ`ŞUÿD¡*±õ)wZØàwÕôÎ¼R™}ÿí”;Š
+? 
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+! Misplaced alignment tab character &.
+l.68 ©-@îxSó£¬nß;ì}»t÷&
+                        V^^TîwÉANµç
+? 
+! Text line contains an invalid character.
+l.68 ©-@îxSó£¬nß;ì}»t÷&V^^T
+                            îwÉANµç
+? 
+Missing character: There is no î in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no ç in font cmr10!
+! Text line contains an invalid character.
+l.69 ^^B
+        q¡^^AD(±^^B‘^^Qñ€^^Tz	ëBnñC4§„¡è×ßª$7Ç–µ^^ZtÒ^^HğÃ>!°é=¥l=—QB—kìòº|
+? 
+Missing character: There is no ¡ in font cmr10!
+! Text line contains an invalid character.
+l.69 ^^Bq¡^^A
+             D(±^^B‘^^Qñ€^^Tz	ëBnñC4§„¡è×ßª$7Ç–µ^^ZtÒ^^HğÃ>!°é=¥l=—QB—kìòº|
+? 
+Missing character: There is no ± in font cmr10!
+! Text line contains an invalid character.
+l.69 ^^Bq¡^^AD(±^^B
+                   ‘^^Qñ€^^Tz	ëBnñC4§„¡è×ßª$7Ç–µ^^ZtÒ^^HğÃ>!°é=¥l=—QB—kìòº|
+? 
+Missing character: There is no ‘ in font cmr10!
+! Text line contains an invalid character.
+l.69 ^^Bq¡^^AD(±^^B‘^^Q
+                       ñ€^^Tz	ëBnñC4§„¡è×ßª$7Ç–µ^^ZtÒ^^HğÃ>!°é=¥l=—QB—kìòº|
+? 
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no € in font cmr10!
+! Text line contains an invalid character.
+l.69 ^^Bq¡^^AD(±^^B‘^^Qñ€^^T
+                            z	ëBnñC4§„¡è×ßª$7Ç–µ^^ZtÒ^^HğÃ>!°é=¥l=—QB—kìòº|
+? 
+Missing character: There is no  in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no ª in font cmr10!
+! Text line contains an invalid character.
+l.69 ...^^AD(±^^B‘^^Qñ€^^Tz	ëBnñC4§„¡è×ßª$7Ç–µ^^Z
+                                                  tÒ^^HğÃ>!°é=¥l=—QB—kìòº|
+? 
+! Text line contains an invalid character.
+l.69 ...±^^B‘^^Qñ€^^Tz	ëBnñC4§„¡è×ßª$7Ç–µ^^ZtÒ^^H
+                                                  ğÃ>!°é=¥l=—QB—kìòº|
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.70 ­Ñ(Û	ğOû¥rù¢Ş‡a×j²µ^^L
+                           ls-P+|^^Gˆ^^O/¿ñÄŠã–ïºhG^^]˜Ã±ÊÚñäe2‰@mfĞNÅÌÔÏó...
+
+? 
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no µ in font cmr10!
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 ­Ñ(Û	ğOû¥rù¢Ş‡a×j²µ^^Ll
+                            s-P+|^^Gˆ^^O/¿ñÄŠã–ïºhG^^]˜Ã±ÊÚñäe2‰@mfĞNÅÌÔÏó...
+
+? 
+! Text line contains an invalid character.
+l.70 ­Ñ(Û	ğOû¥rù¢Ş‡a×j²µ^^Lls-P+|^^G
+                                    ˆ^^O/¿ñÄŠã–ïºhG^^]˜Ã±ÊÚñäe2‰@mfĞNÅÌÔÏó...
+
+? 
+Missing character: There is no ˆ in font cmr10!
+! Text line contains an invalid character.
+l.70 ­Ñ(Û	ğOû¥rù¢Ş‡a×j²µ^^Lls-P+|^^Gˆ^^O
+                                        /¿ñÄŠã–ïºhG^^]˜Ã±ÊÚñäe2‰@mfĞNÅÌÔÏó...
+
+? 
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no º in font cmr10!
+! Text line contains an invalid character.
+l.70 ...û¥rù¢Ş‡a×j²µ^^Lls-P+|^^Gˆ^^O/¿ñÄŠã–ïºhG^^]
+                                                  ˜Ã±ÊÚñäe2‰@mfĞNÅÌÔÏó×4®à...
+
+? 
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no È in font cmr10!
+! Text line contains an invalid character.
+l.70 ...ñÄŠã–ïºhG^^]˜Ã±ÊÚñäe2‰@mfĞNÅÌÔÏó×4®àÈ^^V
+                                                  n^^P|—Û•Q}öSAZópĞ\&•wï‘¹?¬...
+
+? 
+! Text line contains an invalid character.
+l.70 ...–ïºhG^^]˜Ã±ÊÚñäe2‰@mfĞNÅÌÔÏó×4®àÈ^^Vn^^P
+                                                  |—Û•Q}öSAZópĞ\&•wï‘¹?¬ƒÅºì...
+
+? 
+Missing character: There is no — in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no • in font cmr10!
+! Too many }'s.
+l.70 ...^]˜Ã±ÊÚñäe2‰@mfĞNÅÌÔÏó×4®àÈ^^Vn^^P|—Û•Q}
+                                                  öSAZópĞ\&•wï‘¹?¬ƒÅºì…X4×	^...
+
+? ^^[^^[^^[^^[
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+Missing character: There is no ö in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no × in font cmr10!
+! Text line contains an invalid character.
+l.70 ...È^^Vn^^P|—Û•Q}öSAZópĞ\&•wï‘¹?¬ƒÅºì…X4×	^^[
+                                                  ^^FÇÄ»^^Q^^C^^C1lÒ`?Õ´}^^Q...
+
+? 
+! Text line contains an invalid character.
+l.70 ...Vn^^P|—Û•Q}öSAZópĞ\&•wï‘¹?¬ƒÅºì…X4×	^^[^^F
+                                                  ÇÄ»^^Q^^C^^C1lÒ`?Õ´}^^QÙY·...
+
+? 
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no » in font cmr10!
+! Text line contains an invalid character.
+l.70 ...—Û•Q}öSAZópĞ\&•wï‘¹?¬ƒÅºì…X4×	^^[^^FÇÄ»^^Q
+                                                  ^^C^^C1lÒ`?Õ´}^^QÙY·‰Cn¦(Å...
+
+? 
+! Text line contains an invalid character.
+l.70 ...Q}öSAZópĞ\&•wï‘¹?¬ƒÅºì…X4×	^^[^^FÇÄ»^^Q^^C
+                                                  ^^C1lÒ`?Õ´}^^QÙY·‰Cn¦(Å^^Q...
+
+? X
+ 
 Here is how much of TeX's memory you used:
- 1312 strings out of 256216
- 16430 string characters out of 1917072
- 83560 words of memory out of 1500000
- 4645 multiletter control sequences out of 10000+200000
- 7928 words of font info for 28 fonts, out of 1200000 for 2000
- 645 hyphenation exceptions out of 8191
- 26i,10n,35p,308b,197s stack positions out of 5000i,500n,6000p,200000b,15000s
-</usr/shar
-e/texmf/fonts/type1/bluesky/cm/cmbx10.pfb></usr/share/texmf/fonts/type1/bluesky
-/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/t
-exmf/fonts/type1/bluesky/cm/cmssbx10.pfb></usr/share/texmf/fonts/type1/bluesky/
-cm/cmsy10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 46955 bytes).
+ 221 strings out of 495061
+ 2359 string characters out of 1182622
+ 58067 words of memory out of 3000000
+ 3480 multiletter control sequences out of 15000+50000
+ 6379 words of font info for 23 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 26i,4n,19p,629b,63s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 131072)
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
