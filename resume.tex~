@@ -124,8 +124,8 @@
 
 		\begin{itemize}
 
-		\resitem{Improved data quality, fixed critical defects, and implemented new features in the user interface for supply chain management software used in production internationally.}
-		\resitem{JavaScriptMVC, jQuery, Ruby on Rails, CSS, Java, Eclipse, RTC, Microsoft SQL Server}
+		\resitem{Achievements: Improved data quality, fixed critical defects, and implemented new features in the user interface for supply chain management software used in production internationally.}
+		\resitem{Technologies used: JavaScriptMVC, jQuery, Ruby on Rails, CSS, Java, Eclipse, RTC, Microsoft SQL Server}
 
 		\end{itemize}
 
@@ -189,7 +189,7 @@
 
         \begin{itemize}
 
-    	\resitem{Achievements: Created a proof-of-concept web application for users of the Steam PC gaming platform to find other users to share their game library with.}
+    	\resitem{Achievements: Created a proof-of-concept web application for users of the Steam PC gaming platform to share their game libraries with other users.}
 		\resitem{Technologies used: Python/Django, CSS, PostgreSQL, Git, Heroku, Amazon Web Services, Twitter Bootstrap}
 
 		\end{itemize}
