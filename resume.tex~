@@ -190,7 +190,7 @@
         \begin{itemize}
 
     	\resitem{Achievements: Created a proof-of-concept web application for users of the Steam PC gaming platform to find other users to share their game library with.}
-		\resitem{Technologies used: Python/Django, CSS, PostgreSQL, Git, Heroku, Twitter Bootstrap}
+		\resitem{Technologies used: Python/Django, CSS, PostgreSQL, Git, Heroku, Amazon Web Services, Twitter Bootstrap}
 
 		\end{itemize}
 
